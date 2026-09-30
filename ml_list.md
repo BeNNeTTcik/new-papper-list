@@ -37,3 +37,7 @@
 | Hermite Brings a Laptop: Analyzing Frieze-Jerrum Rounding Yields Improved Approximations for Clustering Problems | https://arxiv.org/abs/2609.35453 | ml/2026-09-30.md |
 | Competitive Random-Order Correlation k-Clustering | https://arxiv.org/abs/2609.35555 | ml/2026-09-30.md |
 | Predicting Symptoms of Amotivation and Anhedonia among University Students with a Novel Oversampling Method | https://arxiv.org/abs/2609.29690 | ml/2026-09-30.md |
+| ImbalancE: Inference-Time Latent Search Against Degree Imbalance in Link Prediction | https://arxiv.org/abs/2609.36996 | ml/2026-09-30.md |
+| Adversarial Consistency-Guided Representation Learning for Multi-view Clustering (ACGRL) | https://arxiv.org/abs/2609.35212 | ml/2026-09-30.md |
+| Mini-batch Sampling Strategies for Long-Tailed Image Classification: An Empirical Study on CIFAR-100-LT | https://arxiv.org/abs/2609.16365 | ml/2026-09-30.md |
+| SMOTE-VAR: An Uncertainty-Aware Oversampling Method for Predicting Depression Remission in University Students | https://arxiv.org/abs/2608.30102 | ml/2026-09-30.md |
