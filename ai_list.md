@@ -2,3 +2,50 @@
 
 | Tytuł | Link | Plik repo |
 |---|---|---|
+| Anthropic publikuje pomiary tempa rozwoju AI w laboratoriach frontier | https://www.anthropic.com/institute/measuring-pace-of-ai-development | ai/2026-09-18.md |
+| OpenAI ujawnia, że jego modele zostawiały następcom notatki ukrywające złe zachowania | https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/ | ai/2026-09-18.md |
+| Anthropic przebudowuje Projects w Claude Code pod równoległe wątki agentów | https://claude.com/blog/projects-redesigned | ai/2026-09-18.md |
+| OpenAI, Anthropic i Google DeepMind pracują nad wspólnym organem nadzorującym bezpieczeństwo AI | https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html | ai/2026-09-19.md |
+| Paper2Agent zmienia artykuły naukowe w interaktywnych agentów AI | https://www.nature.com/articles/s41586-026-11044-y | ai/2026-09-19.md |
+| Kiedy więcej agentów znaczy mniej — nowe badanie nad granicami współpracy multi-agentowej | https://arxiv.org/abs/2609.19759 | ai/2026-09-19.md |
+| Nasze ramy raportowania niedopasowania modeli (model misalignment) | https://openai.com/index/model-misalignment-reporting-framework/ | ai/2026-09-20.md |
+| Pomiary do zrozumienia tempa rozwoju AI wewnątrz laboratoriów pierwszej linii | https://www.anthropic.com/institute/measuring-pace-of-ai-development | ai/2026-09-20.md |
+| W stronę nauki o skalowaniu systemów agentowych: kiedy i dlaczego działają | https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/ | ai/2026-09-20.md |
+| DeepSeek-V4.1-Flash: mądrzejszy, szybszy, wydajniejszy | https://deepseek.com/en/news/deepseek-v4-1-flash/ | ai/2026-09-20.md |
+| Jak harness agenta tworzy wartość? Nowe badanie nad planowaniem i weryfikacją w stanowych agentach LLM | https://arxiv.org/abs/2609.20474 | ai/2026-09-21.md |
+| Muse od Meta wyprzedza ChataGPT na szczycie amerykańskiego App Store | https://9to5mac.com/2026/09/18/metas-new-muse-ai-agent-app-overtakes-chatgpt-as-top-iphone-app/ | ai/2026-09-21.md |
+| „Prompty nie są prawdziwe” — dlaczego optymalizacja agentów LLM to pomiar, a nie pisanie promptów | https://evaluation.club/ | ai/2026-09-21.md |
+| Plugin4Shell: zero-click RCE w czterech głównych agentach kodujących AI | https://www.air.security/blog-posts/plugin4shell | ai/2026-09-22.md |
+| Hacking OpenAI — jak trzej badacze z Hacktron AI włamali się do OpenAI w mniej niż 72 godziny przy pomocy Claude Opus 5 | https://www.hacktron.ai/blog/hacking-openai | ai/2026-09-22.md |
+| Anthropic: Claude prowadzi już 26% prac badawczo-rozwojowych nad kolejną wersją samego siebie | https://betanews.com/article/claude-ai-rd-development/ | ai/2026-09-22.md |
+| Mistral x Mozilla: prywatna, wielojęzyczna AI w przeglądarce Firefox | https://mistral.ai/news/mistral-x-mozilla/ | ai/2026-09-22.md |
+| Introducing GPT-6 Sol and Luna | https://openai.com/index/introducing-gpt-6-sol-and-luna/ | ai/2026-09-23.md |
+| The Closed Quorum: Inside the first reported autonomous AI C2 implant | https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/ | ai/2026-09-23.md |
+| Safari 27 Ships a Native MCP Server — And Apple Gave Enterprises No Way to Turn It Off | https://forkast.news/safari-27-ships-a-native-mcp-server-and-apple-gave-enterprises-no-way-to-turn-it-off/ | ai/2026-09-23.md |
+| Self-Healing Harness for Runtime Oversight of Agent Self-Modification | https://arxiv.org/abs/2609.24130 | ai/2026-09-23.md |
+| Introducing Claude Opus 5.5 | https://www.anthropic.com/claude-opus-5-5 | ai/2026-09-24.md |
+| Google says its AI model gained unauthorized access to three outside systems | https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651 | ai/2026-09-24.md |
+| Everything new coming to Meta's AI agent Muse | https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/ | ai/2026-09-24.md |
+| From Approval to Execution: Reconstruction-Aware Repair Analysis for LLM-Agent Software | https://arxiv.org/abs/2609.26529 | ai/2026-09-24.md |
+| Google, OpenAI, Anthropic Plan Frontier AI Standards Body | https://www.bankinfosecurity.com/google-openai-anthropic-plan-frontier-ai-standards-body-a-32926 | ai/2026-09-25.md |
+| ChatGPT mobile app gets voice-based agentic features | https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/ | ai/2026-09-25.md |
+| First Agentic AI Data Breach Reported to Spanish Regulator | https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/ | ai/2026-09-25.md |
+| MAGE: Safeguarding LLM Agents against Long-Horizon Threats via Shadow Memory | https://arxiv.org/abs/2605.03228 | ai/2026-09-25.md |
+| Project Swap: What happens when agents trade for us? | https://www.anthropic.com/research/project-swap | ai/2026-09-26.md |
+| OpenAI launches GPT-6 Sol and Luna | https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/ | ai/2026-09-26.md |
+| Accelerating vision-language models with LFM2.5-VL-DSpark | https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark | ai/2026-09-26.md |
+| AI agents built from scientific papers surface new discoveries | https://news.stanford.edu/stories/2026/09/ai-agents-talk | ai/2026-09-26.md |
+| Claude discovers a novel enzyme system | https://www.anthropic.com/news/claude-discovers-novel-enzyme-system | ai/2026-09-27.md |
+| An agent used DNS to reach an external chatbot | https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/ | ai/2026-09-27.md |
+| Plugin4Shell: Zero-Click RCE Vulnerability found in top 4 most popular coding agents | https://www.helpnetsecurity.com/2026/09/18/plugin4shell-ai-coding-agents-vulnerability/ | ai/2026-09-27.md |
+| xAI Launches Grok 4.7, Its Most Capable Coding Model Yet | https://sqmagazine.co.uk/xai-launches-grok-4-7-coding-model/ | ai/2026-09-27.md |
+| Microsoft ogłasza nowy Copilot: Home, Code i Autopilot | https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/ | ai/2026-09-28.md |
+| OpenAI agent samodzielnie włamał się na portal australijskiego Medicare | https://www.cnbc.com/2026/09/24/openai-agent-hacked-australian-government-website-.html | ai/2026-09-28.md |
+| Swarm Traces: rekonstrukcja włamania roju agentów OpenAI na Hugging Face | https://swarmtraces.org/ | ai/2026-09-28.md |
+| LLM Agents Can Easily Tamper With Their Own Traces | https://arxiv.org/abs/2609.30266 | ai/2026-09-28.md |
+| Anthropic launches Claude Sonnet 5.5 with 30% cost reduction per-task due to faster speeds and fewer tool calls | https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-5-with-30-cost-reduction-per-task-due-to-faster-speeds-and-fewer-tool-calls | ai/2026-09-29.md |
+| Google is killing off Gemini's Gems in favor of 'skills' | https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/ | ai/2026-09-29.md |
+| Dataiku debuts cross-platform Agent Management, expands Cobuild building agent | https://siliconangle.com/2026/09/24/dataiku-debuts-cross-platform-agent-management-expands-cobuild-building-agent/ | ai/2026-09-29.md |
+| Claude Marketplace: one place to discover plugins, agents, and services from our partners | https://claude.com/blog/claude-marketplace | ai/2026-09-30.md |
+| OpenAI launches GPT-6 Sol and Luna | https://datanorth.ai/news/openai-launches-gpt-6-sol-and-luna | ai/2026-09-30.md |
+| Meta reveals its AI agent that can shop, send emails and plan trips on your behalf | https://engadget.com/2253133/meta-reveals-its-ai-agent-that-can-shop-send-emails-and-plan-trips-on-your-behalf/ | ai/2026-09-30.md |
