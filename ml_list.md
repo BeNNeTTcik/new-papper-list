@@ -1,0 +1,43 @@
+# Lista artykułów z tematyki ml
+
+| Tytuł | Link | Plik repo |
+|---|---|---|
+| Adaptive Weighting–Synthetic Minority Oversampling Technique (AW-SMOTE) | https://www.mdpi.com/2227-7390/14/17/3238 | ml/2026-09-17.md |
+| Improving Fairness in Doubly Imbalanced Datasets | https://www.nature.com/articles/s41598-026-54702-x | ml/2026-09-17.md |
+| Ensemble of Unsupervised Deep Learning for Clustering Imbalanced Tabular Data | https://arxiv.org/abs/2608.00346 | ml/2026-09-17.md |
+| Beyond Imbalance Ratio: Data Characteristics as Critical Moderators of Oversampling Method Selection | https://arxiv.org/abs/2604.04541 | ml/2026-09-17.md |
+| SMOTE in Python and whether you should still use it in 2026 | https://blog.trainindata.com/smote-in-python-a-guide-to-balanced-datasets/ | ml/2026-09-17.md |
+| Clustering-Based Balanced Sampling and Allocation with Data Parallelism for High-Performance Fine-Tuning (CluSTER) | https://arxiv.org/abs/2609.12584 | ml/2026-09-18.md |
+| Imbalanced Data in Machine Learning: Techniques and Best Practices | https://blog.trainindata.com/machine-learning-with-imbalanced-data/ | ml/2026-09-18.md |
+| Rare event detection by progressive clustering undersampling | https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0340758 | ml/2026-09-18.md |
+| QC-SMOTE: Quality-Controlled SMOTE for Imbalanced Classification | https://arxiv.org/abs/2606.24625 | ml/2026-09-18.md |
+| An approach for handling imbalanced datasets using borderline shifting | https://www.nature.com/articles/s41598-026-39118-x | ml/2026-09-18.md |
+| CG-MVC: structure-aware multi-view clustering with entropy-quantile curriculum learning | https://link.springer.com/article/10.1007/s00530-026-02632-z | ml/2026-09-21.md |
+| Statistical and computational trade-offs in imbalanced kernel clustering | https://link.springer.com/article/10.1007/s11704-026-52144-2 | ml/2026-09-21.md |
+| Correcting Class Imbalance in Prior-Data Fitted Networks for Tabular Classification | https://arxiv.org/abs/2605.21742 | ml/2026-09-21.md |
+| OverNaN: NaN-Aware Oversampling for Imbalanced Learning with Meaningful Missingness | https://arxiv.org/abs/2605.11525 | ml/2026-09-21.md |
+| Data Balancing Strategies: A Systematic Survey of Resampling and Augmentation Methods | https://www.mdpi.com/2504-4990/8/7/211 | ml/2026-09-21.md |
+| Differentially Private Hierarchical Spectral Clustering | https://doi.org/10.3390/e28090963 | ml/2026-09-22.md |
+| TILBench: A Systematic Benchmark for Tabular Imbalanced Learning Across Data Regimes | https://arxiv.org/abs/2605.14915 | ml/2026-09-22.md |
+| SMOTE and Mirrors: Exposing Privacy Leakage from Synthetic Minority Oversampling | https://arxiv.org/abs/2510.15083 | ml/2026-09-22.md |
+| A spherical space adaptive oversampling method based on Gaussian mixture model clustering for multi-class imbalanced data (SSAO) | https://link.springer.com/article/10.1007/s10586-026-06555-2 | ml/2026-09-22.md |
+| GBC-AST: a cluster-based oversampling method for heart failure prediction in imbalanced medical data sets | https://link.springer.com/article/10.1186/s12911-026-03436-x | ml/2026-09-22.md |
+| Selective Inference for Deep Clustering in Latent Spaces | https://arxiv.org/abs/2609.28756 | ml/2026-09-27.md |
+| Density-Ratio Rescoring for Imbalanced Classification Using Raking Duals and Classifier Scores | https://arxiv.org/abs/2609.23926 | ml/2026-09-27.md |
+| When Single-Dataset Conclusions Fail: A 45-Task Study of Threshold Tuning and Resampling for Imbalanced Classification | https://arxiv.org/abs/2608.16147 | ml/2026-09-27.md |
+| Synthetic minority data is redundant or invalid: a data-dependent validity theory and a de-biased test | https://arxiv.org/abs/2607.20787 | ml/2026-09-27.md |
+| Federated Deep Clustering Networks for High-Dimensional and Heterogeneous Data | https://arxiv.org/abs/2609.21829 | ml/2026-09-27.md |
+| Bounded Adjustment with Reliability-Guided Embedding for Imbalanced Learning with Noisy Labels (BARGE) | https://arxiv.org/abs/2609.16380 | ml/2026-09-29.md |
+| Certified Interpolation Oversampling: Per-Instance Safety Guarantees for Imbalanced Learning (CISO) | https://arxiv.org/abs/2501.15790 | ml/2026-09-29.md |
+| Breaking the Homogeneity Assumption: Specialized Multi-Generator Adversarial Learning for Rare Failure Detection in Predictive Maintenance | https://arxiv.org/abs/2607.19153 | ml/2026-09-29.md |
+| Imbalanced Data Clustering via Targeted Data Augmentation Using GMM and LLM | https://arxiv.org/abs/2607.28635 | ml/2026-09-29.md |
+| imbalanced-learn-extra: A Python Package for Novel Oversampling Algorithms | https://openresearchsoftware.metajnl.com/articles/10.5334/jors.459 | ml/2026-09-29.md |
+| OFBD: Object-Focused Background Debiasing for Long-Tailed Learning | https://arxiv.org/abs/2609.37331 | ml/2026-09-30.md |
+| Understanding Private Evolution as Learning-Augmented Clustering | https://arxiv.org/abs/2609.36678 | ml/2026-09-30.md |
+| Hermite Brings a Laptop: Analyzing Frieze-Jerrum Rounding Yields Improved Approximations for Clustering Problems | https://arxiv.org/abs/2609.35453 | ml/2026-09-30.md |
+| Competitive Random-Order Correlation k-Clustering | https://arxiv.org/abs/2609.35555 | ml/2026-09-30.md |
+| Predicting Symptoms of Amotivation and Anhedonia among University Students with a Novel Oversampling Method | https://arxiv.org/abs/2609.29690 | ml/2026-09-30.md |
+| ImbalancE: Inference-Time Latent Search Against Degree Imbalance in Link Prediction | https://arxiv.org/abs/2609.36996 | ml/2026-09-30.md |
+| Adversarial Consistency-Guided Representation Learning for Multi-view Clustering (ACGRL) | https://arxiv.org/abs/2609.35212 | ml/2026-09-30.md |
+| Mini-batch Sampling Strategies for Long-Tailed Image Classification: An Empirical Study on CIFAR-100-LT | https://arxiv.org/abs/2609.16365 | ml/2026-09-30.md |
+| SMOTE-VAR: An Uncertainty-Aware Oversampling Method for Predicting Depression Remission in University Students | https://arxiv.org/abs/2608.30102 | ml/2026-09-30.md |
