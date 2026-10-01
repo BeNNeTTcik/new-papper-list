@@ -41,3 +41,7 @@
 | Adversarial Consistency-Guided Representation Learning for Multi-view Clustering (ACGRL) | https://arxiv.org/abs/2609.35212 | ml/2026-09-30.md |
 | Mini-batch Sampling Strategies for Long-Tailed Image Classification: An Empirical Study on CIFAR-100-LT | https://arxiv.org/abs/2609.16365 | ml/2026-09-30.md |
 | SMOTE-VAR: An Uncertainty-Aware Oversampling Method for Predicting Depression Remission in University Students | https://arxiv.org/abs/2608.30102 | ml/2026-09-30.md |
+| A Guided Implicit Generative Adversarial CNN–Transformer Framework for Class-Imbalanced Hyperspectral Image Classification (3D-GIGAMO) | https://www.mdpi.com/2072-4292/18/19/3343 | ml/2026-10-01.md |
+| Clustering-Based Undersampling Strategies for Enhancing Classifier Performance in Imbalanced Text Datasets (ClusUS / ClusUSCosine) | https://www.tandfonline.com/doi/full/10.1080/08839514.2026.2684114 | ml/2026-10-01.md |
+| Riemannian Difference-of-Convex Optimization for K-Means Clustering (RADA-DC) | https://arxiv.org/abs/2609.34310 | ml/2026-10-01.md |
+| Automatic depth-based local center clustering via β-integrated local depth and adaptive grouping (A-DLCC) | https://arxiv.org/abs/2609.26748 | ml/2026-10-01.md |
