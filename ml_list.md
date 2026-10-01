@@ -1,7 +1,7 @@
 # Lista artykułów z tematyki ml
 
-| Tytuł                                                                                                                                      | Link                                                                        | Plik repo        |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- | ---------------- |
+| Tytuł                                                                                                                                      | Link                                                                        | Plik repo        | Ocena |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------- | ---------------- | ----- |
 | Adaptive Weighting–Synthetic Minority Oversampling Technique (AW-SMOTE)                                                                    | https://www.mdpi.com/2227-7390/14/17/3238                                   | ml/2026-09-17.md |
 | Improving Fairness in Doubly Imbalanced Datasets                                                                                           | https://www.nature.com/articles/s41598-026-54702-x                          | ml/2026-09-17.md |
 | Ensemble of Unsupervised Deep Learning for Clustering Imbalanced Tabular Data                                                              | https://arxiv.org/abs/2608.00346                                            | ml/2026-09-17.md |
