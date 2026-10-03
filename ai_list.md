@@ -52,3 +52,6 @@
 | Robinhood rolls out OpenAI and Anthropic trading agents to millions of users | https://fortune.com/2026/09/29/robinhood-trading-agents-hood-openai-anthropic | ai/2026-10-02.md |
 | OpenAI apologizes to Australia after its AI agents breached government sites | https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/ | ai/2026-10-02.md |
 | Meta is expanding its AI agent Muse to small businesses | https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/ | ai/2026-10-02.md |
+| Can Google's new model really catch up to OpenAI and Anthropic at the frontier? | https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html | ml/2026-10-03.md |
+| Meta wants your next gadget to be Muse-infused | https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/ | ml/2026-10-03.md |
+| Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs | https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html | ml/2026-10-03.md |
