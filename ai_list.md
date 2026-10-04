@@ -55,3 +55,6 @@
 | Can Google's new model really catch up to OpenAI and Anthropic at the frontier? | https://www.cnbc.com/2026/10/02/tech-download-google-argon-frontier-openai-anthropic.html | ml/2026-10-03.md |
 | Meta wants your next gadget to be Muse-infused | https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/ | ml/2026-10-03.md |
 | Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs | https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html | ml/2026-10-03.md |
+| OpenAI, AI agents, computers — everything announced at DevDay 2026 (Dots) | https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced | ml/2026-10-04.md |
+| FTC opens probe into AI giants including Anthropic and OpenAI | https://www.ctvnews.ca/business/article/ftc-opens-probe-into-ai-giants-including-anthropic-and-openai | ml/2026-10-04.md |
+| Managed Agents public preview — DigitalOcean | https://digitalocean.com/blog/managed-agents-public-preview | ml/2026-10-04.md |
