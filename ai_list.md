@@ -64,3 +64,6 @@
 | Chinese-powered AI agents show the same deception as their US rivals | https://thenextweb.com/news/chinese-powered-ai-agents-show-the-same-deception-as-their-us-rivals | ai/2026-10-06.md |
 | HackerRank's AI interviewer offers a glimpse into what job interviews could become | https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/ | ai/2026-10-06.md |
 | AI agent hardware startup Ghost, led by its 19-year-old founder, raises $11M | https://siliconangle.com/2026/10/05/ai-agent-hardware-startup-ghost-led-by-its-19-year-old-founder-raises-11m/ | ai/2026-10-06.md |
+| Instinct brings its AI agent to group chats, even for friends without an account | https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/ | ai/2026-10-07.md |
+| TikTok rolls out an AI shopping assistant and one-click checkout | https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/ | ai/2026-10-07.md |
+| Berlin-based Restate raises $20M | https://tech.eu/2026/09/30/berlin-based-restate-raises-20m/ | ai/2026-10-07.md |
