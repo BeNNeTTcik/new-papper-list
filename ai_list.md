@@ -62,7 +62,7 @@
 | Apple says it's tightening macOS 'Full Disk Access' controls due to new risks from AI agents | https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/ | ai/2026-10-05.md |
 | DoorDash debuts text-to-order AI agent that works in Apple Messages | https://www.thestar.com.my/tech/tech-news/2026/10/01/doordash-debuts-text-to-order-ai-agent-that-works-in-applemessages | ai/2026-10-05.md |
 | Chinese-powered AI agents show the same deception as their US rivals | https://thenextweb.com/news/chinese-powered-ai-agents-show-the-same-deception-as-their-us-rivals | ai/2026-10-06.md | X |
-| HackerRank's AI interviewer offers a glimpse into what job interviews could become | https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/ | ai/2026-10-06.md |
+| HackerRank's AI interviewer offers a glimpse into what job interviews could become | https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/ | ai/2026-10-06.md | X |
 | AI agent hardware startup Ghost, led by its 19-year-old founder, raises $11M | https://siliconangle.com/2026/10/05/ai-agent-hardware-startup-ghost-led-by-its-19-year-old-founder-raises-11m/ | ai/2026-10-06.md |
 | Instinct brings its AI agent to group chats, even for friends without an account | https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/ | ai/2026-10-07.md |
 | TikTok rolls out an AI shopping assistant and one-click checkout | https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/ | ai/2026-10-07.md |
