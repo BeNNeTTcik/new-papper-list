@@ -67,3 +67,6 @@
 | Instinct brings its AI agent to group chats, even for friends without an account | https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/ | ai/2026-10-07.md |
 | TikTok rolls out an AI shopping assistant and one-click checkout | https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/ | ai/2026-10-07.md |
 | Berlin-based Restate raises $20M | https://tech.eu/2026/09/30/berlin-based-restate-raises-20m/ | ai/2026-10-07.md |
+| The next hurdle for AI agents: getting websites to let them in | https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/ | ml/2026-10-08.md |
+| Researchers are tracking a Chinese AI 'agent fleet' | https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/ | ml/2026-10-08.md |
+| Nous Research confirms it hit $1.5B valuation, launches AI agents for business users | https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/ | ml/2026-10-08.md |
