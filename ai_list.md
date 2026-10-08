@@ -57,12 +57,12 @@
 | Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs | https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html | ml/2026-10-03.md |
 | OpenAI, AI agents, computers — everything announced at DevDay 2026 (Dots) | https://decrypt.co/379584/openai-ai-agents-computers-devday-2026-everything-announced | ai/2026-10-04.md |
 | FTC opens probe into AI giants including Anthropic and OpenAI | https://www.ctvnews.ca/business/article/ftc-opens-probe-into-ai-giants-including-anthropic-and-openai | ai/2026-10-04.md |
-| Managed Agents public preview — DigitalOcean | https://digitalocean.com/blog/managed-agents-public-preview | ai/2026-10-04.md | X |
+| Managed Agents public preview — DigitalOcean | https://digitalocean.com/blog/managed-agents-public-preview | ai/2026-10-04.md | X | X |
 | Nvidia says new tool can contain rogue AI agents in "milliseconds" | https://axios.com/2026/09/28/nvidia-ai-agent-safety | ai/2026-10-05.md |
 | Apple says it's tightening macOS 'Full Disk Access' controls due to new risks from AI agents | https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/ | ai/2026-10-05.md |
 | DoorDash debuts text-to-order AI agent that works in Apple Messages | https://www.thestar.com.my/tech/tech-news/2026/10/01/doordash-debuts-text-to-order-ai-agent-that-works-in-applemessages | ai/2026-10-05.md |
-| Chinese-powered AI agents show the same deception as their US rivals | https://thenextweb.com/news/chinese-powered-ai-agents-show-the-same-deception-as-their-us-rivals | ai/2026-10-06.md | X |
-| HackerRank's AI interviewer offers a glimpse into what job interviews could become | https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/ | ai/2026-10-06.md | X |
+| Chinese-powered AI agents show the same deception as their US rivals | https://thenextweb.com/news/chinese-powered-ai-agents-show-the-same-deception-as-their-us-rivals | ai/2026-10-06.md | X | X |
+| HackerRank's AI interviewer offers a glimpse into what job interviews could become | https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/ | ai/2026-10-06.md | X | X |
 | AI agent hardware startup Ghost, led by its 19-year-old founder, raises $11M | https://siliconangle.com/2026/10/05/ai-agent-hardware-startup-ghost-led-by-its-19-year-old-founder-raises-11m/ | ai/2026-10-06.md |
 | Instinct brings its AI agent to group chats, even for friends without an account | https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/ | ai/2026-10-07.md |
 | TikTok rolls out an AI shopping assistant and one-click checkout | https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/ | ai/2026-10-07.md |
