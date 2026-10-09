@@ -70,3 +70,5 @@
 | The next hurdle for AI agents: getting websites to let them in | https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/ | ml/2026-10-08.md |
 | Researchers are tracking a Chinese AI 'agent fleet' | https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/ | ml/2026-10-08.md |
 | Nous Research confirms it hit $1.5B valuation, launches AI agents for business users | https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/ | ml/2026-10-08.md |
+| Anthropic: rozszerzony Cyber Verification Program | https://anthropic.com/news/cyber-verification-program | ai/2026-10-09.md |
+| OpenAI publikuje 722 manuskrypty matematyczne wygenerowane przez niewydany model | https://www.unite.ai/openai-releases-722-math-manuscripts-from-an-unreleased-ai-model/ | ai/2026-10-09.md |
