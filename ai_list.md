@@ -72,3 +72,6 @@
 | Nous Research confirms it hit $1.5B valuation, launches AI agents for business users | https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/ | ml/2026-10-08.md |
 | Anthropic: rozszerzony Cyber Verification Program | https://anthropic.com/news/cyber-verification-program | ai/2026-10-09.md |
 | OpenAI publikuje 722 manuskrypty matematyczne wygenerowane przez niewydany model | https://www.unite.ai/openai-releases-722-math-manuscripts-from-an-unreleased-ai-model/ | ai/2026-10-09.md |
+| Google Cloud introduces Gemini agent for work as AI race heats up | https://www.cnbc.com/2026/10/08/google-cloud-introduces-gemini-agent-for-work-as-ai-race-heats-up.html | ai/2026-10-10.md |
+| Meta joins with group of companies to tame 'chaos' of doing business with AI bots | https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html | ai/2026-10-10.md |
+| Reflection AI debuts open-source Beam model with 501B parameters | https://siliconangle.com/2026/10/05/reflection-ai-debuts-open-source-beam-model-with-501b-parameters/ | ai/2026-10-10.md |
