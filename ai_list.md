@@ -75,3 +75,7 @@
 | Google Cloud introduces Gemini agent for work as AI race heats up | https://www.cnbc.com/2026/10/08/google-cloud-introduces-gemini-agent-for-work-as-ai-race-heats-up.html | ai/2026-10-10.md |
 | Meta joins with group of companies to tame 'chaos' of doing business with AI bots | https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html | ai/2026-10-10.md |
 | Reflection AI debuts open-source Beam model with 501B parameters | https://siliconangle.com/2026/10/05/reflection-ai-debuts-open-source-beam-model-with-501b-parameters/ | ai/2026-10-10.md |
+| Claude Haiku 5.5 debuts as Anthropic's faster small AI model | https://yourstory.com/ai-story/claude-haiku-5-5-anthropic-small-ai-model | ml/2026-10-11.md |
+| OpenAI Launches GPT-6.1 Sol Instead of Astra, the Model Pulled for Safety Reasons | https://pasqualepillitteri.it/en/news/19358/openai-gpt-6-1-sol-astra-pulled-safety | ml/2026-10-11.md |
+| ICO secures changes from leading AI developers as scrutiny extends to AI agents | https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/ico-secures-changes-from-leading-ai-developers-as-scrutiny-extends-to-ai-agents/ | ml/2026-10-11.md |
+| Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle | https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/ | ml/2026-10-11.md |
