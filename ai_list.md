@@ -79,3 +79,6 @@
 | OpenAI Launches GPT-6.1 Sol Instead of Astra, the Model Pulled for Safety Reasons | https://pasqualepillitteri.it/en/news/19358/openai-gpt-6-1-sol-astra-pulled-safety | ml/2026-10-11.md |
 | ICO secures changes from leading AI developers as scrutiny extends to AI agents | https://ico.org.uk/about-the-ico/media-centre/news-and-blogs/2026/10/ico-secures-changes-from-leading-ai-developers-as-scrutiny-extends-to-ai-agents/ | ml/2026-10-11.md |
 | Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle | https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/ | ml/2026-10-11.md |
+| Mistral Opens Public Preview of Large 4, With Weight Release Planned Later This Month | https://letsdatascience.com/news/mistral-debuts-large-4-open-weight-model-preview-cbf9e0b5 | ai/2026-10-12.md |
+| China's Manus raises over $500M in first funding round since split with Meta | https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/ | ai/2026-10-12.md |
+| Microsoft Opens Work IQ Preview for Dynamics 365 and Power Platform Data | https://erp.today/microsoft-opens-work-iq-preview-for-dynamics-365-and-power-platform-data/ | ai/2026-10-12.md |
