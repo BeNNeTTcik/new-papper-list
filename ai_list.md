@@ -82,3 +82,7 @@
 | Mistral Opens Public Preview of Large 4, With Weight Release Planned Later This Month | https://letsdatascience.com/news/mistral-debuts-large-4-open-weight-model-preview-cbf9e0b5 | ai/2026-10-12.md |
 | China's Manus raises over $500M in first funding round since split with Meta | https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/ | ai/2026-10-12.md |
 | Microsoft Opens Work IQ Preview for Dynamics 365 and Power Platform Data | https://erp.today/microsoft-opens-work-iq-preview-for-dynamics-365-and-power-platform-data/ | ai/2026-10-12.md |
+| Anthropic can't reliably control its AI agents — it's cutting off its internal evals from the live internet instead | https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/ | ai/2026-10-13.md |
+| Goodfire says its new 'inside-out' monitors catch rogue AI agents at a fraction of the cost | https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/ | ai/2026-10-13.md |
+| Here are the top AI agents that can live in your text messages | https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/ | ai/2026-10-13.md |
+| Vesta raises $30M to bring swarms of agents to mortgage lenders | https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/ | ai/2026-10-13.md |
