@@ -86,3 +86,5 @@
 | Goodfire says its new 'inside-out' monitors catch rogue AI agents at a fraction of the cost | https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/ | ai/2026-10-13.md |
 | Here are the top AI agents that can live in your text messages | https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/ | ai/2026-10-13.md |
 | Vesta raises $30M to bring swarms of agents to mortgage lenders | https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/ | ai/2026-10-13.md |
+| Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents | https://about.fb.com/news/2026/10/introducing-muse-wonder-models/ | ai/2026-10-14.md |
+| Cal AI's 19-year-old founder just raised $10M for his new AI startup | https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/ | ai/2026-10-14.md |
