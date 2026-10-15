@@ -88,3 +88,6 @@
 | Vesta raises $30M to bring swarms of agents to mortgage lenders | https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/ | ai/2026-10-13.md |
 | Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents | https://about.fb.com/news/2026/10/introducing-muse-wonder-models/ | ai/2026-10-14.md |
 | Cal AI's 19-year-old founder just raised $10M for his new AI startup | https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/ | ai/2026-10-14.md |
+| Frontier Red Team: Self-replicating AI | https://anthropic.com/research/self-replicating-ai | ai/2026-10-15.md |
+| Harvard Study: AI Coding Agents Lift Code 30%, Shipped Output Flat | https://aiweekly.co/alerts/harvard-study-ai-coding-agents-lift-code-30-shipped-output-flat | ai/2026-10-15.md |
+| Gemini 4 Argon pricing: the $2/$10 promo, the $4/$20 bill, and what a task really costs | https://www.eesel.ai/blog/gemini-4-argon-pricing | ai/2026-10-15.md |
