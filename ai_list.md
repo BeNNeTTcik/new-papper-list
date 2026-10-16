@@ -91,3 +91,6 @@
 | Frontier Red Team: Self-replicating AI | https://anthropic.com/research/self-replicating-ai | ai/2026-10-15.md |
 | Harvard Study: AI Coding Agents Lift Code 30%, Shipped Output Flat | https://aiweekly.co/alerts/harvard-study-ai-coding-agents-lift-code-30-shipped-output-flat | ai/2026-10-15.md |
 | Gemini 4 Argon pricing: the $2/$10 promo, the $4/$20 bill, and what a task really costs | https://www.eesel.ai/blog/gemini-4-argon-pricing | ai/2026-10-15.md |
+| Liquid AI lanza LFM2.5-24B-A2B: agentes locales y privados | https://ecosistemastartup.com/liquid-ai-lanza-lfm2-5-24b-a2b-agentes-locales-y-privados/ | ai/2026-10-16.md |
+| Gemini 4 Argon Arrives With Big Claims for AI Agents and Scientific Discovery | https://hpcwire.com/bigdatawire/2026/10/14/gemini-4-argon-arrives-with-big-claims-for-ai-agents-and-scientific-discovery | ai/2026-10-16.md |
+| Shopify opens its billion-item catalog: any AI agent can now shop for you | https://toolnavs.com/article/2540-shopify-opens-its-billion-item-catalog-any-ai-agent-can-now-shop-for-you | ai/2026-10-16.md |
