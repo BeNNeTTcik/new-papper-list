@@ -94,3 +94,6 @@
 | Liquid AI lanza LFM2.5-24B-A2B: agentes locales y privados | https://ecosistemastartup.com/liquid-ai-lanza-lfm2-5-24b-a2b-agentes-locales-y-privados/ | ai/2026-10-16.md |
 | Gemini 4 Argon Arrives With Big Claims for AI Agents and Scientific Discovery | https://hpcwire.com/bigdatawire/2026/10/14/gemini-4-argon-arrives-with-big-claims-for-ai-agents-and-scientific-discovery | ai/2026-10-16.md |
 | Shopify opens its billion-item catalog: any AI agent can now shop for you | https://toolnavs.com/article/2540-shopify-opens-its-billion-item-catalog-any-ai-agent-can-now-shop-for-you | ai/2026-10-16.md |
+| AI agents are coming to Rivian's cars | https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/ | ai/2026-10-17.md |
+| Figma announces new features to define how agents work on its platform | https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/ | ai/2026-10-17.md |
+| Floqer's AI agents research sales prospects so teams don't have to | https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/ | ai/2026-10-17.md |
