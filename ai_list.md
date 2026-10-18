@@ -97,3 +97,6 @@
 | AI agents are coming to Rivian's cars | https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/ | ai/2026-10-17.md |
 | Figma announces new features to define how agents work on its platform | https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/ | ai/2026-10-17.md |
 | Floqer's AI agents research sales prospects so teams don't have to | https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/ | ai/2026-10-17.md |
+| Dynamic Workflows Move to the Server | https://vanja.io/managed-agents-dynamic-workflows/ | ml/2026-10-18.md |
+| Pluto Security Raises $42M for AI Agent Security | https://letsdatascience.com/news/pluto-security-raises-42m-for-ai-agent-security-72bfb4a6 | ml/2026-10-18.md |
+| Rein Security Completes $25M Series A Funding to Secure Enterprise AI Agents | https://www.kucoin.com/news/flash/rein-security-completes-25m-series-a-funding-to-secure-enterprise-ai-agents | ml/2026-10-18.md |
