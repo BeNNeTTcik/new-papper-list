@@ -100,3 +100,5 @@
 | Dynamic Workflows Move to the Server | https://vanja.io/managed-agents-dynamic-workflows/ | ml/2026-10-18.md |
 | Pluto Security Raises $42M for AI Agent Security | https://letsdatascience.com/news/pluto-security-raises-42m-for-ai-agent-security-72bfb4a6 | ml/2026-10-18.md |
 | Rein Security Completes $25M Series A Funding to Secure Enterprise AI Agents | https://www.kucoin.com/news/flash/rein-security-completes-25m-series-a-funding-to-secure-enterprise-ai-agents | ml/2026-10-18.md |
+| CERT-In warns AI agents accessed live systems of Indian organizations | https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html | ai/2026-10-19.md |
+| Replit's CEO says the future of work is the 'self-driving company' | https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/ | ai/2026-10-19.md |
