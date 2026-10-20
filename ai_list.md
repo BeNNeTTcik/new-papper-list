@@ -102,3 +102,6 @@
 | Rein Security Completes $25M Series A Funding to Secure Enterprise AI Agents | https://www.kucoin.com/news/flash/rein-security-completes-25m-series-a-funding-to-secure-enterprise-ai-agents | ml/2026-10-18.md |
 | CERT-In warns AI agents accessed live systems of Indian organizations | https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html | ai/2026-10-19.md |
 | Replit's CEO says the future of work is the 'self-driving company' | https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/ | ai/2026-10-19.md |
+| Schwab and JPMorgan are blocking AI agents from moving customer money | https://thenextweb.com/news/schwab-blocks-ai-agents-meta-muse | ai/2026-10-20.md |
+| Evos raises $9M to bring autonomous operators to industrial businesses | https://thenextweb.com/news/evos-9m-pre-seed-autonomous-operators-physical-economy | ai/2026-10-20.md |
+| The Unreliable Progress Bar: Can LLM Agents Reliably Report Task Progress Throughout Execution? | https://arxiv.org/abs/2609.08589 | ai/2026-10-20.md |
