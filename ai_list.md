@@ -105,3 +105,7 @@
 | Schwab and JPMorgan are blocking AI agents from moving customer money | https://thenextweb.com/news/schwab-blocks-ai-agents-meta-muse | ai/2026-10-20.md |
 | Evos raises $9M to bring autonomous operators to industrial businesses | https://thenextweb.com/news/evos-9m-pre-seed-autonomous-operators-physical-economy | ai/2026-10-20.md |
 | The Unreliable Progress Bar: Can LLM Agents Reliably Report Task Progress Throughout Execution? | https://arxiv.org/abs/2609.08589 | ai/2026-10-20.md |
+| Nvidia launches new open models to run agents in the enterprise and on PCs | https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/ | ai/2026-10-21.md |
+| Microsoft says AI agents are like insider threats as 'frontier models can't be trusted' | https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/ | ai/2026-10-21.md |
+| Scaled Cognition targets customer service with low-cost voice model | https://siliconangle.com/2026/10/20/scaled-cognition-targets-customer-service-with-low-cost-voice-model | ai/2026-10-21.md |
+| The hardest AI security problems now live in what an agent is permitted to do | https://thenextweb.com/news/owasp-llm-2026-agency-cra | ai/2026-10-21.md |
