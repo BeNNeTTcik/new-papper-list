@@ -109,3 +109,7 @@
 | Microsoft says AI agents are like insider threats as 'frontier models can't be trusted' | https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/ | ai/2026-10-21.md |
 | Scaled Cognition targets customer service with low-cost voice model | https://siliconangle.com/2026/10/20/scaled-cognition-targets-customer-service-with-low-cost-voice-model | ai/2026-10-21.md |
 | The hardest AI security problems now live in what an agent is permitted to do | https://thenextweb.com/news/owasp-llm-2026-agency-cra | ai/2026-10-21.md |
+| While Amazon blocks AI agents, Walmart rolls out the welcome mat | https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/ | ai/2026-10-22.md |
+| OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So | https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html | ai/2026-10-22.md |
+| CXBench: A Benchmark for Process-Compliant LLM Agents in Regulated Customer-Experience Workflows | https://arxiv.org/abs/2610.25954 | ai/2026-10-22.md |
+| After the Attacker Leaves: Benchmarking Carryover Attacks on LLM Agents | https://arxiv.org/abs/2610.28425 | ai/2026-10-22.md |
