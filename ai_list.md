@@ -113,3 +113,6 @@
 | OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So | https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html | ai/2026-10-22.md |
 | CXBench: A Benchmark for Process-Compliant LLM Agents in Regulated Customer-Experience Workflows | https://arxiv.org/abs/2610.25954 | ai/2026-10-22.md |
 | After the Attacker Leaves: Benchmarking Carryover Attacks on LLM Agents | https://arxiv.org/abs/2610.28425 | ai/2026-10-22.md |
+| American Express unveils framework to prevent unauthorised AI agent payments | https://www.digitaltoday.co.kr/en/view/114078/american-express-unveils-framework-to-prevent-unauthorised-ai-agent-payments | ai/2026-10-23.md |
+| AdaExploreBench: Benchmarking LLM Agents for Proactive Exploration and Test-time Adaptation in Evolving Environments | https://arxiv.org/abs/2610.25950 | ai/2026-10-23.md |
+| Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research | https://arxiv.org/abs/2610.30113 | ai/2026-10-23.md |
