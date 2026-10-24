@@ -116,3 +116,7 @@
 | American Express unveils framework to prevent unauthorised AI agent payments | https://www.digitaltoday.co.kr/en/view/114078/american-express-unveils-framework-to-prevent-unauthorised-ai-agent-payments | ai/2026-10-23.md |
 | AdaExploreBench: Benchmarking LLM Agents for Proactive Exploration and Test-time Adaptation in Evolving Environments | https://arxiv.org/abs/2610.25950 | ai/2026-10-23.md |
 | Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research | https://arxiv.org/abs/2610.30113 | ai/2026-10-23.md |
+| Donating Agent Skills to the Agentic AI Foundation | https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation | ai/2026-10-24.md | X | X |
+| OpenAI models are coming to Google Cloud | https://openai.com/index/openai-models-google-cloud/ | ai/2026-10-24.md | X | X |
+| Uber brings ChatGPT Work to all employees with OpenAI | https://openai.com/index/uber-chatgpt-work-rollout | ai/2026-10-24.md | X | X |
+| Left alone with nothing to do, AI agents started playing | https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/ | ai/2026-10-24.md | X | X |
