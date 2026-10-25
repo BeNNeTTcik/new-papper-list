@@ -120,3 +120,6 @@
 | OpenAI models are coming to Google Cloud | https://openai.com/index/openai-models-google-cloud/ | ai/2026-10-24.md | X | X |
 | Uber brings ChatGPT Work to all employees with OpenAI | https://openai.com/index/uber-chatgpt-work-rollout | ai/2026-10-24.md | X | X |
 | Left alone with nothing to do, AI agents started playing | https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/ | ai/2026-10-24.md | X | X |
+| Anthropic Launches Claude Duet, a Proactive AI Agent | https://macrumors.com/2026/10/21/anthropic-claude-duet/ | ai/2026-10-25.md |
+| ServiceNow gives AI agents a passport, and limits on what they can do | https://www.helpnetsecurity.com/?p=388116 | ai/2026-10-25.md |
+| Notion lets agents run past 24 hours as it meters AI use | https://runtimewire.com/article/notion-agents-24-hour-runs-credit-controls | ai/2026-10-25.md |
