@@ -123,3 +123,7 @@
 | Anthropic Launches Claude Duet, a Proactive AI Agent | https://macrumors.com/2026/10/21/anthropic-claude-duet/ | ai/2026-10-25.md |
 | ServiceNow gives AI agents a passport, and limits on what they can do | https://www.helpnetsecurity.com/?p=388116 | ai/2026-10-25.md |
 | Notion lets agents run past 24 hours as it meters AI use | https://runtimewire.com/article/notion-agents-24-hour-runs-credit-controls | ai/2026-10-25.md |
+| A coding agent's harness can triple its cost without making it more accurate, study finds | https://venturebeat.com/orchestration/a-coding-agents-harness-can-triple-its-cost-without-making-it-more-accurate-study-finds | ai/2026-10-26.md | X | X |
+| ACED-Bench: Evaluating How LLM Agents Acquire and Act on Causal Evidence | https://arxiv.org/abs/2610.14381 | ai/2026-10-26.md | X | X |
+| SpeedrunBench: Challenging LLM Agents with Video Game Speedrunning | https://arxiv.org/abs/2610.08076 | ai/2026-10-26.md | X | X |
+| MASBench: Benchmarking LLM-based Multi-Agent Collaboration under Partial Observability | https://arxiv.org/abs/2610.04672 | ai/2026-10-26.md | X | X |
