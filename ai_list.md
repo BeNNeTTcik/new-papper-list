@@ -127,3 +127,7 @@
 | ACED-Bench: Evaluating How LLM Agents Acquire and Act on Causal Evidence | https://arxiv.org/abs/2610.14381 | ai/2026-10-26.md | X | X |
 | SpeedrunBench: Challenging LLM Agents with Video Game Speedrunning | https://arxiv.org/abs/2610.08076 | ai/2026-10-26.md | X | X |
 | MASBench: Benchmarking LLM-based Multi-Agent Collaboration under Partial Observability | https://arxiv.org/abs/2610.04672 | ai/2026-10-26.md | X | X |
+| Recursive releases Flint, a laptop coding model largely built by its own AI | https://thenextweb.com/news/recursive-flint-local-coding-model-eureka-machine | ai/2026-10-27.md | X | X |
+| Moonshot releases Kimi K3.1 Pro open-weight model | https://www.aichatdaily.com/ai-models/moonshot-releases-kimi-k3-1-pro-open-weight-model | ai/2026-10-27.md | X | X |
+| Forgotten AI agents may still access sensitive company data | https://www.helpnetsecurity.com/2026/10/26/arrakis-dormant-ai-agent-risks-report/ | ai/2026-10-27.md | X | X |
+| AI coding agent vulnerabilities, October 2026: GitSpawn and more | https://adversa.ai/blog/top-ai-coding-agent-security-resources-october-2026/ | ai/2026-10-27.md | X | X |
