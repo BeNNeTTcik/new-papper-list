@@ -131,3 +131,5 @@
 | Moonshot releases Kimi K3.1 Pro open-weight model | https://www.aichatdaily.com/ai-models/moonshot-releases-kimi-k3-1-pro-open-weight-model | ai/2026-10-27.md | X | X |
 | Forgotten AI agents may still access sensitive company data | https://www.helpnetsecurity.com/2026/10/26/arrakis-dormant-ai-agent-risks-report/ | ai/2026-10-27.md | X | X |
 | AI coding agent vulnerabilities, October 2026: GitSpawn and more | https://adversa.ai/blog/top-ai-coding-agent-security-resources-october-2026/ | ai/2026-10-27.md | X | X |
+| 1Password lets AI agents sign in for users without seeing their passwords | https://thenextweb.com/news/1password-for-agents-ai-agent-logins | ai/2026-10-28.md | X | X |
+| DeepMind put 100 AI agents in a room and they sorted into cheaters, converts and whistleblowers | https://the-decoder.com/deepmind-put-100-ai-agents-in-a-room-and-they-sorted-into-cheaters-converts-and-whistleblowers/ | ai/2026-10-28.md | X | X |
