@@ -133,3 +133,5 @@
 | AI coding agent vulnerabilities, October 2026: GitSpawn and more | https://adversa.ai/blog/top-ai-coding-agent-security-resources-october-2026/ | ai/2026-10-27.md | X | X |
 | 1Password lets AI agents sign in for users without seeing their passwords | https://thenextweb.com/news/1password-for-agents-ai-agent-logins | ai/2026-10-28.md | X | X |
 | DeepMind put 100 AI agents in a room and they sorted into cheaters, converts and whistleblowers | https://the-decoder.com/deepmind-put-100-ai-agents-in-a-room-and-they-sorted-into-cheaters-converts-and-whistleblowers/ | ai/2026-10-28.md | X | X |
+| SK Telecom: Guidelines for AI agent development and operations released | https://biz.heraldcorp.com/article/10914221 | ai/2026-10-29.md | X | X |
+| Akamai Agent Sandbox | https://www.akamai.com/products/akamai-agent-sandbox | ai/2026-10-29.md | X | X |
