@@ -135,3 +135,5 @@
 | DeepMind put 100 AI agents in a room and they sorted into cheaters, converts and whistleblowers | https://the-decoder.com/deepmind-put-100-ai-agents-in-a-room-and-they-sorted-into-cheaters-converts-and-whistleblowers/ | ai/2026-10-28.md | X | X |
 | SK Telecom: Guidelines for AI agent development and operations released | https://biz.heraldcorp.com/article/10914221 | ai/2026-10-29.md | X | X |
 | Akamai Agent Sandbox | https://www.akamai.com/products/akamai-agent-sandbox | ai/2026-10-29.md | X | X |
+| Introducing GPT-6.1 Terra | https://openai.com/index/introducing-gpt-6-1-terra/ | ml/2026-10-30.md | X | X |
+| Google DeepMind debuts Genie 4 world model with native audio | https://aiweekly.co/alerts/google-deepmind-debuts-genie-4-world-model-with-native-audio | ml/2026-10-30.md | X | X |
