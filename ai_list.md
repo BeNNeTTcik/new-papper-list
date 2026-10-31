@@ -137,3 +137,6 @@
 | Akamai Agent Sandbox | https://www.akamai.com/products/akamai-agent-sandbox | ai/2026-10-29.md | X | X |
 | Introducing GPT-6.1 Terra | https://openai.com/index/introducing-gpt-6-1-terra/ | ml/2026-10-30.md | X | X |
 | Google DeepMind debuts Genie 4 world model with native audio | https://aiweekly.co/alerts/google-deepmind-debuts-genie-4-world-model-with-native-audio | ml/2026-10-30.md | X | X |
+| Act on Your Behalf, Beyond Your Authorization: Benchmarking LLM Agent Authorization Alignment | https://arxiv.org/abs/2610.27548 | ml/2026-10-31-ai.md | X | X |
+| AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations | https://arxiv.org/abs/2610.36980 | ml/2026-10-31-ai.md | X | X |
+| EPSBench: Benchmarking LLM Agents for Earnings Forecasting | https://arxiv.org/abs/2610.38293 | ml/2026-10-31-ai.md | X | X |
