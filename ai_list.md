@@ -140,3 +140,6 @@
 | Act on Your Behalf, Beyond Your Authorization: Benchmarking LLM Agent Authorization Alignment | https://arxiv.org/abs/2610.27548 | ml/2026-10-31-ai.md | X | X |
 | AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations | https://arxiv.org/abs/2610.36980 | ml/2026-10-31-ai.md | X | X |
 | EPSBench: Benchmarking LLM Agents for Earnings Forecasting | https://arxiv.org/abs/2610.38293 | ml/2026-10-31-ai.md | X | X |
+| Early progress on accelerating drug development with Claude | https://www.anthropic.com/research/early-progress-drug-development | ml/2026-11-01.md | X | X |
+| Expanding our partnership with GSA to bring Claude to all levels of government | https://www.anthropic.com/news/expanding-partnership-gsa | ml/2026-11-01.md | X | X |
+| Strengthening our defenses against distillation attacks | https://www.anthropic.com/news/distillation-defenses | ml/2026-11-01.md | X | X |
