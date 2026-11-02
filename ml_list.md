@@ -171,3 +171,7 @@
 | Rate-Optimal Spectral Likelihood-Ratio Clustering in Stochastic Block Models                                               | https://arxiv.org/abs/2610.40531                                            | ml/2026-10-31.md |
 | Uniform Capacitated Clustering with Few Extra Centers                                                                      | https://arxiv.org/abs/2610.40625                                            | ml/2026-10-31.md |
 | IMRouter: Imbalance-aware Temporal Pattern Routing for LLM-based Time Series Forecasting                                   | https://arxiv.org/abs/2610.39246                                            | ml/2026-10-31.md |
+| Machine Learning Based Detection of Chronic Kidney Disease using Full Blood Count (wpływ momentu zastosowania SMOTE)       | https://doi.org/10.64898/2026.10.27.26366677                                | ml/2026-11-02.md |
+| Graph-Based Mutually Supervised Heterogeneous Ensemble Learning for Class-Imbalance Data (GMSHE)                           | https://doi.org/10.1109/TSMC.2026.3713998                                   | ml/2026-11-02.md |
+| Synergistic Dual Proxies: Enhancing Cohesion and Separability in Deep Graph Clustering (DP-Net)                            | https://doi.org/10.1109/TKDE.2026.3725759                                   | ml/2026-11-02.md |
+| Class-Imbalance-Aware Weighting Approach for Long-Tail Object Detection in Vision-Based IoT Systems                        | https://doi.org/10.1109/JIOT.2026.3717438                                   | ml/2026-11-02.md |
