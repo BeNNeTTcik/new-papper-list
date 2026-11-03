@@ -145,3 +145,6 @@
 | Strengthening our defenses against distillation attacks | https://www.anthropic.com/news/distillation-defenses | ml/2026-11-01.md | X | X |
 | DoorDash said it's only received 'several hundred' orders from AI agents | https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/ | ml/2026-11-02-ai.md | X | X |
 | Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round | https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/ | ml/2026-11-02-ai.md | X | X |
+| DeepSeek open-sources Super-Agent, a coding agent that reads team chats | https://thenextweb.com/news/deepseek-super-agent-open-source-coding-agent | ml/2026-11-03.md | X | X |
+| Anthropic's message threads let Claude agents skip resending chats | https://thenextweb.com/news/anthropic-message-threads-beta-claude-api-agents | ml/2026-11-03.md | X | X |
+| Musk says Grok Bot costs were unsustainably high as users ran out early | https://thenextweb.com/news/grok-bot-costs-unsustainably-high-musk-usage-limits | ml/2026-11-03.md | X | X |
