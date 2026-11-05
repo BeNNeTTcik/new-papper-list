@@ -148,3 +148,7 @@
 | DeepSeek open-sources Super-Agent, a coding agent that reads team chats | https://thenextweb.com/news/deepseek-super-agent-open-source-coding-agent | ml/2026-11-03.md | X | X |
 | Anthropic's message threads let Claude agents skip resending chats | https://thenextweb.com/news/anthropic-message-threads-beta-claude-api-agents | ml/2026-11-03.md | X | X |
 | Musk says Grok Bot costs were unsustainably high as users ran out early | https://thenextweb.com/news/grok-bot-costs-unsustainably-high-musk-usage-limits | ml/2026-11-03.md | X | X |
+| Tencent releases Hy4, a powerful frontier AI model introducing visual understanding and computer use | https://siliconangle.com/2026/11/04/tencent-releases-hy4-powerful-frontier-llm-introducing-visual-understanding-and-computer-use | ml/2026-11-05.md | X | X |
+| Oumi's Frontier AI Engineer now builds AI agents and retrains the models behind them | https://siliconangle.com/2026/11/04/oumis-frontier-ai-engineer-now-builds-ai-agents-and-retrains-the-models-behind-them | ml/2026-11-05.md | X | X |
+| Snowflake expands agentic AI platform with business context and governance tools | https://siliconangle.com/2026/11/03/snowflake-expands-agentic-ai-platform-with-business-context-and-governance-tools/ | ml/2026-11-05.md | X | X |
+| IBM connects agentic workloads to the demands of always-on AI | https://siliconangle.com/2026/11/03/ibm-connects-agentic-workloads-demands-always-on-ai-ibmaioperatingmodel/ | ml/2026-11-05.md | X | X |
