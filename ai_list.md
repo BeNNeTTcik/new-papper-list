@@ -152,3 +152,7 @@
 | Oumi's Frontier AI Engineer now builds AI agents and retrains the models behind them | https://siliconangle.com/2026/11/04/oumis-frontier-ai-engineer-now-builds-ai-agents-and-retrains-the-models-behind-them | ml/2026-11-05.md | X | X |
 | Snowflake expands agentic AI platform with business context and governance tools | https://siliconangle.com/2026/11/03/snowflake-expands-agentic-ai-platform-with-business-context-and-governance-tools/ | ml/2026-11-05.md | X | X |
 | IBM connects agentic workloads to the demands of always-on AI | https://siliconangle.com/2026/11/03/ibm-connects-agentic-workloads-demands-always-on-ai-ibmaioperatingmodel/ | ml/2026-11-05.md | X | X |
+| What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents? | https://arxiv.org/abs/2611.06483 | ml/2026-11-06.md | X | X |
+| Tools Need Not Speak in Text: Latent Context Compression for Agents | https://arxiv.org/abs/2611.06500 | ml/2026-11-06.md | X | X |
+| Analysis of Local Open-Weight LLM Agents on Vulnerability-Reproduction Tasks | https://arxiv.org/abs/2611.06257 | ml/2026-11-06.md | X | X |
+| Cresta opens its AI agent platform to developer self-service | https://www.cmswire.com/contact-center/cresta-opens-agent-platform-to-developer-selfservice/ | ml/2026-11-06.md | X | X |
