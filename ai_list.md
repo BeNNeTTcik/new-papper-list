@@ -156,3 +156,7 @@
 | Tools Need Not Speak in Text: Latent Context Compression for Agents | https://arxiv.org/abs/2611.06500 | ml/2026-11-06.md | X | X |
 | Analysis of Local Open-Weight LLM Agents on Vulnerability-Reproduction Tasks | https://arxiv.org/abs/2611.06257 | ml/2026-11-06.md | X | X |
 | Cresta opens its AI agent platform to developer self-service | https://www.cmswire.com/contact-center/cresta-opens-agent-platform-to-developer-selfservice/ | ml/2026-11-06.md | X | X |
+| Almost no one uses AI agents to book their Uber, company says | https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/ | ml/2026-11-07.md | X | X |
+| Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M | https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/ | ml/2026-11-07.md | X | X |
+| Axiom Math wants to keep AI slop out of mathematics | https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/ | ml/2026-11-07.md | X | X |
+| OpenAI reportedly raises $11B in new funding at $1.25T valuation | https://siliconangle.com/2026/11/06/openai-reportedly-raises-11b-in-new-funding-at-1-25t-valuation/ | ml/2026-11-07.md | X | X |
