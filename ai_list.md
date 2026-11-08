@@ -160,3 +160,6 @@
 | Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M | https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/ | ml/2026-11-07.md | X | X |
 | Axiom Math wants to keep AI slop out of mathematics | https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/ | ml/2026-11-07.md | X | X |
 | OpenAI reportedly raises $11B in new funding at $1.25T valuation | https://siliconangle.com/2026/11/06/openai-reportedly-raises-11b-in-new-funding-at-1-25t-valuation/ | ml/2026-11-07.md | X | X |
+| OpenAI: A thousand fewer paths to root (948 podatności Linuksa znalezionych przez agenta) | https://openai.com/index/a-thousand-fewer-paths-to-root/ | ml/2026-11-08.md | X | X |
+| WorkOS says attacker used ARTEX AI to breach internal sales app | https://bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app | ml/2026-11-08.md | X | X |
+| Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys | https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach | ml/2026-11-08.md | X | X |
