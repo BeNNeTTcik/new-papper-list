@@ -180,3 +180,7 @@
 | Malware Clustering in the Wild: Taxonomy, Challenges, and Evaluation Metrics                                              | https://arxiv.org/abs/2611.02380                                            | ml/2026-11-04.md |
 | Discovering Semantic Granularity in Images through Clustering of Pretrained Visual Representations                        | https://arxiv.org/abs/2611.02686                                            | ml/2026-11-04.md |
 | Exact Sum-of-Radii Clustering under Any Constant Stability                                                                | https://arxiv.org/abs/2611.03547                                            | ml/2026-11-04.md |
+| KANN-DBSCAN algorithm for blind channel estimation in NB-IoT                                                               | https://doi.org/10.1007/s43926-026-00542-0                                  | ml/2026-11-09.md |
+| PRISM: Predictive and Interpretable Multi-Omics Integration for Clinical Outcome Modeling                                  | https://doi.org/10.1145/3840471.3842596                                     | ml/2026-11-09.md |
+| PC-YOLO: Small-target Face Detection with P2 Head and Gradient Re-balanced Scale-aware CIoU Loss                           | https://doi.org/10.1145/3841192.3841754                                     | ml/2026-11-09.md |
+| Context-Aware Semi-Supervised Classification of Defensive Screen Coverage in Professional Basketball                       | https://doi.org/10.1145/3841455.3841520                                     | ml/2026-11-09.md |
