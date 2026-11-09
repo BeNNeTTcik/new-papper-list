@@ -163,3 +163,7 @@
 | OpenAI: A thousand fewer paths to root (948 podatności Linuksa znalezionych przez agenta) | https://openai.com/index/a-thousand-fewer-paths-to-root/ | ml/2026-11-08.md | X | X |
 | WorkOS says attacker used ARTEX AI to breach internal sales app | https://bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app | ml/2026-11-08.md | X | X |
 | Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys | https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach | ml/2026-11-08.md | X | X |
+| GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents | https://openai.com/index/introducing-gpt-6-cyber/ | ml/2026-11-09-ai.md | X | X |
+| Introducing dots | https://openai.com/index/introducing-dots/ | ml/2026-11-09-ai.md | X | X |
+| Previewing GPT-5.6 Sol: a next-generation model | https://openai.com/index/previewing-gpt-5-6-sol/ | ml/2026-11-09-ai.md | X | X |
+| Meta acquires AI coding startup Conductor | https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/ | ml/2026-11-09-ai.md | X | X |
