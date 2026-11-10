@@ -167,3 +167,6 @@
 | Introducing dots | https://openai.com/index/introducing-dots/ | ml/2026-11-09-ai.md | X | X |
 | Previewing GPT-5.6 Sol: a next-generation model | https://openai.com/index/previewing-gpt-5-6-sol/ | ml/2026-11-09-ai.md | X | X |
 | Meta acquires AI coding startup Conductor | https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/ | ml/2026-11-09-ai.md | X | X |
+| Sandboxing untrusted AI agents at scale | https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html | ml/2026-11-10.md |
+| Perplexity Teammates Launches: How Its $200-a-Month AI Agents Work | https://www.techrepublic.com/article/news-perplexity-teammates-ai-agents-pricing-features/ | ml/2026-11-10.md |
+| Introducing Cuttlefish | https://digitalocean.com/blog/introducing-cuttlefish | ml/2026-11-10.md |
