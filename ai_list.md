@@ -170,3 +170,7 @@
 | Sandboxing untrusted AI agents at scale | https://opensource.googleblog.com/2026/11/sandboxing-untrusted-ai-agents-at-scale.html | ml/2026-11-10.md |
 | Perplexity Teammates Launches: How Its $200-a-Month AI Agents Work | https://www.techrepublic.com/article/news-perplexity-teammates-ai-agents-pricing-features/ | ml/2026-11-10.md |
 | Introducing Cuttlefish | https://digitalocean.com/blog/introducing-cuttlefish | ml/2026-11-10.md |
+| Introducing Claude Fable 5.2 and Claude Mythos 5.2 | https://www.anthropic.com/claude-fable-and-mythos-5-2 | ml/2026-11-11-ai.md |
+| AlphaProof Code: Verifying Signal's Security at the Machine-Code Level | https://google-deepmind.github.io/code-verification/ | ml/2026-11-11-ai.md |
+| AI security startup Bay launches with $50M to vet agent actions before they run | https://siliconangle.com/2026/11/10/ai-security-startup-bay-launches-with-50m-to-vet-agent-actions-before-they-run/ | ml/2026-11-11-ai.md |
+| SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users | https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html | ml/2026-11-11-ai.md |
