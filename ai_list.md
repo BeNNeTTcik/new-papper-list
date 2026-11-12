@@ -174,3 +174,6 @@
 | AlphaProof Code: Verifying Signal's Security at the Machine-Code Level | https://google-deepmind.github.io/code-verification/ | ml/2026-11-11-ai.md |
 | AI security startup Bay launches with $50M to vet agent actions before they run | https://siliconangle.com/2026/11/10/ai-security-startup-bay-launches-with-50m-to-vet-agent-actions-before-they-run/ | ml/2026-11-11-ai.md |
 | SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users | https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html | ml/2026-11-11-ai.md |
+| Gemini 4 Carbon is now available | https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/ | ml/2026-11-12-ai.md |
+| OpenAI lets businesses claim ChatGPT profiles and launch their own agents | https://thenextweb.com/news/openai-businesses-in-chatgpt-business-agents | ml/2026-11-12-ai.md |
+| CrowdStrike Extends the Agentic SOC to Detect and Stop Agent Insider Threats | https://www.crowdstrike.com/en-us/blog/crowdstrike-detects-and-stops-agent-insider-threats/ | ml/2026-11-12-ai.md |
