@@ -189,3 +189,8 @@
 | Robust Hierarchical Contrastive Learning for Multi-view Clustering with Imbalanced Views (RCHMC-IV)                       | https://doi.org/10.1145/3767308.3835270                                     | ml/2026-11-11.md |
 | DateGBC: Deep Fuzzy Granular-Ball Clustering via Adaptive Topology Evolution for Unsupervised Image Segmentation           | https://doi.org/10.1145/3767308.3835374                                     | ml/2026-11-11.md |
 | stMRPC: Decoding Spatial Transcriptomics with Multimodal Rebalancing and Perspective-aware Clustering                     | https://doi.org/10.1145/3767308.3836254                                     | ml/2026-11-11.md |
+| A scalable edge-intelligent spectral clustering framework with random binning features for wireless sensor networks | https://doi.org/10.1007/s10791-026-10720-x | ml/2026-11-12.md |
+| MixCurv: Geometry-Aware Multimodal Clustering with Mixed-Curvature Experts | https://doi.org/10.1145/3767308.3835948 | ml/2026-11-12.md |
+| Exploring Data Augmentation for Stroke Severity Prediction: How Generative AI Enhances EEG Signal Classification (SMOTE/ADASYN vs WGAN-GP) | https://doi.org/10.64898/2026.11.09.26367632 | ml/2026-11-12.md |
+| An intelligent cost-sensitive ensemble framework (XG-Boost, random forest) for credit risk forecasting using imbalanced behavioural data | https://doi.org/10.1007/s43546-026-01568-w | ml/2026-11-12.md |
+| Robust universum relative density intuitionistic fuzzy kernel weighted extreme learning machine for imbalanced data (URDIFKWELM) | https://doi.org/10.1007/s13042-026-03363-3 | ml/2026-11-12.md |
