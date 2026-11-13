@@ -194,3 +194,8 @@
 | Exploring Data Augmentation for Stroke Severity Prediction: How Generative AI Enhances EEG Signal Classification (SMOTE/ADASYN vs WGAN-GP) | https://doi.org/10.64898/2026.11.09.26367632 | ml/2026-11-12.md |
 | An intelligent cost-sensitive ensemble framework (XG-Boost, random forest) for credit risk forecasting using imbalanced behavioural data | https://doi.org/10.1007/s43546-026-01568-w | ml/2026-11-12.md |
 | Robust universum relative density intuitionistic fuzzy kernel weighted extreme learning machine for imbalanced data (URDIFKWELM) | https://doi.org/10.1007/s13042-026-03363-3 | ml/2026-11-12.md |
+| Local-structure-aware fuzzy matrix self-enhancement for reliable clustering ensembles in pattern analysis | https://doi.org/10.1007/s10044-026-01802-z | ml/2026-11-13.md |
+| Sample or pixel: a critical metric issue in industrial defect detection | https://doi.org/10.1007/s10044-026-01805-w | ml/2026-11-13.md |
+| Hybrid Quantum-Classical Intrusion Detection under Severe Class Imbalance: A Controlled Comparison with a Classical Counterpart | https://doi.org/10.1007/s42979-026-05444-0 | ml/2026-11-13.md |
+| Trustworthy DINOv2-based skin lesion classification with uncertainty quantification and robust learning from limited medical images | https://doi.org/10.1007/s10791-026-10748-z | ml/2026-11-13.md |
+| Research on intelligent evaluation system of program algorithms used in IT development process (adaptacyjna klasteryzacja hierarchiczna vs K-means/DEC/DAEGC) | https://doi.org/10.1007/s10791-026-10744-3 | ml/2026-11-13.md |
