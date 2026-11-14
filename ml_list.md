@@ -199,3 +199,8 @@
 | Hybrid Quantum-Classical Intrusion Detection under Severe Class Imbalance: A Controlled Comparison with a Classical Counterpart | https://doi.org/10.1007/s42979-026-05444-0 | ml/2026-11-13.md |
 | Trustworthy DINOv2-based skin lesion classification with uncertainty quantification and robust learning from limited medical images | https://doi.org/10.1007/s10791-026-10748-z | ml/2026-11-13.md |
 | Research on intelligent evaluation system of program algorithms used in IT development process (adaptacyjna klasteryzacja hierarchiczna vs K-means/DEC/DAEGC) | https://doi.org/10.1007/s10791-026-10744-3 | ml/2026-11-13.md |
+| ORCA: Orthogonal Residual Consensus Alignment for Multi-View Clustering | https://arxiv.org/abs/2611.16749 | ml/2026-11-14.md |
+| MALNISI-Infused Graph Construction and Weighted Contrastive Loss based GAT for Unsupervised Representation Learning in HSI | https://arxiv.org/abs/2611.17199 | ml/2026-11-14.md |
+| Comparative Evaluation of Machine Learning Models for Credit Card Approval Prediction Using Class Imbalance Handling Methods in the PyCaret AutoML Framework (SMOTE vs random undersampling) | https://doi.org/10.35870/jtik.v11i1.7884 | ml/2026-11-14.md |
+| Classification of Educational Vulnerability Status Using Boosting Methods on Imbalanced Socioeconomic Data (SMOTEBoost/RUSBoost/RBBoost) | https://doi.org/10.18860/cauchy.v11i2.39670 | ml/2026-11-14.md |
+| Fine-Tuned Small Language Model for Synthetic Clinical Data Generation and Predictive Healthcare Analytics | https://arxiv.org/abs/2611.16460 | ml/2026-11-14.md |
