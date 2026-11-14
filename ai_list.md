@@ -180,3 +180,7 @@
 | Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams | https://alignment.anthropic.com/2026/worse-together/ | ml/2026-11-13-ai.md |
 | Linux Foundation Welcomes Agent Name Service to Bring Verifiable Identity and Discovery to AI Agents | https://www.linuxfoundation.org/press/linux-foundation-welcomes-agent-name-service-to-bring-verifiable-identity-and-discovery-to-ai-agents | ml/2026-11-13-ai.md |
 | Meet Nod | https://blog.n8n.io/meet-nod | ml/2026-11-13-ai.md |
+| Introducing ChatGPT Wallet | https://openai.com/index/introducing-chatgpt-wallet/ | ml/2026-11-14-ai.md |
+| IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation | https://news.microsoft.com/source/2026/11/10/ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation/ | ml/2026-11-14-ai.md |
+| Unprompted coordination through shared memory in LLM agents: a locked two-implementation replication and extension | https://arxiv.org/abs/2611.12412 | ml/2026-11-14-ai.md |
+| AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026) | https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/ | ml/2026-11-14-ai.md |
