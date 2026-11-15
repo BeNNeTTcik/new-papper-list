@@ -204,3 +204,8 @@
 | Comparative Evaluation of Machine Learning Models for Credit Card Approval Prediction Using Class Imbalance Handling Methods in the PyCaret AutoML Framework (SMOTE vs random undersampling) | https://doi.org/10.35870/jtik.v11i1.7884 | ml/2026-11-14.md |
 | Classification of Educational Vulnerability Status Using Boosting Methods on Imbalanced Socioeconomic Data (SMOTEBoost/RUSBoost/RBBoost) | https://doi.org/10.18860/cauchy.v11i2.39670 | ml/2026-11-14.md |
 | Fine-Tuned Small Language Model for Synthetic Clinical Data Generation and Predictive Healthcare Analytics | https://arxiv.org/abs/2611.16460 | ml/2026-11-14.md |
+| A Topology-Feature Disentangled Deep Clustering Method for scRNA-seq Based on Graph-to-MLP Distillation (scAdaG2M) | https://doi.org/10.1093/bioinformatics/btag827 | ml/2026-11-15.md |
+| scHiCGNN: Per-Chromosome Graph Attention for Single-Cell Hi-C Clustering | https://doi.org/10.1093/bioadv/vbag338 | ml/2026-11-15.md |
+| A Standardized Training and Evaluation Protocol for Sequential Fraud Detection | https://doi.org/10.1145/3858063.3858860 | ml/2026-11-15.md |
+| Hybrid stacking and logistic regression meta-model for credit card fraud detection using SMOTE and multiple machine learning algorithms | https://doi.org/10.1038/s41598-026-73942-5 | ml/2026-11-15.md |
+| Enhancing IoT intrusion detection using an LSTM-based deep learning model with GAN and explainable AI (SMOTE vs GAN) | https://doi.org/10.1007/s44163-026-02657-3 | ml/2026-11-15.md |
