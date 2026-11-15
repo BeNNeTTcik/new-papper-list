@@ -184,3 +184,7 @@
 | IBM and Microsoft announce a new AI agent platform designed for industry-specific transformation | https://news.microsoft.com/source/2026/11/10/ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation/ | ml/2026-11-14-ai.md |
 | Unprompted coordination through shared memory in LLM agents: a locked two-implementation replication and extension | https://arxiv.org/abs/2611.12412 | ml/2026-11-14-ai.md |
 | AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more (November 9, 2026) | https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/ | ml/2026-11-14-ai.md |
+| United Airlines Moves to Block Personal AI Agents From Booking Flights | https://skift.com/2026/11/11/united-airlines-moves-to-block-personal-ai-agents-from-booking-flights/ | ml/2026-11-15-ai.md |
+| ByteDance reportedly plans a Muse-like AI agent within weeks | https://thenextweb.com/news/bytedance-muse-like-ai-agent-zhang-yiming | ml/2026-11-15-ai.md |
+| Red Hat OpenShift 5 brings AI agents to cluster troubleshooting and upgrades | https://virtualizationreview.com/articles/2026/11/09/red-hat-openshift-5-brings-ai-agents-to-cluster-troubleshooting-and-upgrades.aspx | ml/2026-11-15-ai.md |
+| Dependable Long-Horizon LLM Agents: A Trajectory-Centered Empirical Study of Where Errors Enter and Which Controls Reach Them | https://arxiv.org/abs/2611.13254 | ml/2026-11-15-ai.md |
