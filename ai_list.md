@@ -188,3 +188,6 @@
 | ByteDance reportedly plans a Muse-like AI agent within weeks | https://thenextweb.com/news/bytedance-muse-like-ai-agent-zhang-yiming | ml/2026-11-15-ai.md |
 | Red Hat OpenShift 5 brings AI agents to cluster troubleshooting and upgrades | https://virtualizationreview.com/articles/2026/11/09/red-hat-openshift-5-brings-ai-agents-to-cluster-troubleshooting-and-upgrades.aspx | ml/2026-11-15-ai.md |
 | Dependable Long-Horizon LLM Agents: A Trajectory-Centered Empirical Study of Where Errors Enter and Which Controls Reach Them | https://arxiv.org/abs/2611.13254 | ml/2026-11-15-ai.md |
+| LangChain Raises $300M Series C at $3B Valuation | https://www.langchain.com/blog/series-c | ml/2026-11-16-ai.md |
+| From Questions to Decisions: Benchmarking How LLM Agents Acquire Decision-Relevant Information from Human Beings | https://arxiv.org/abs/2611.13015 | ml/2026-11-16-ai.md |
+| AgentScript-Eval: Benchmarking LLMs and Agents for Code Generation in an Enterprise DSL | https://arxiv.org/abs/2611.13183 | ml/2026-11-16-ai.md |
