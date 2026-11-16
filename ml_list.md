@@ -209,3 +209,8 @@
 | A Standardized Training and Evaluation Protocol for Sequential Fraud Detection | https://doi.org/10.1145/3858063.3858860 | ml/2026-11-15.md |
 | Hybrid stacking and logistic regression meta-model for credit card fraud detection using SMOTE and multiple machine learning algorithms | https://doi.org/10.1038/s41598-026-73942-5 | ml/2026-11-15.md |
 | Enhancing IoT intrusion detection using an LSTM-based deep learning model with GAN and explainable AI (SMOTE vs GAN) | https://doi.org/10.1007/s44163-026-02657-3 | ml/2026-11-15.md |
+| CGGS: Confidence-Guided Graph Sampling for Scalable GNN Fraud Detection on Imbalanced Financial Networks | https://doi.org/10.1145/3858063.3858896 | ml/2026-11-16.md |
+| Performance comparison of ML algorithms for liver disease prediction (SMOTE + RF/LightGBM) | https://doi.org/10.55670/fpll.fdtai.2.2.5 | ml/2026-11-16.md |
+| Spatial–temporal machine learning for traffic violation type prediction: a case study in Qatar | https://doi.org/10.55670/fpll.futech.5.4.22 | ml/2026-11-16.md |
+| Unsupervised machine learning identifies early stage breast cancer subclasses from aberrant glycogene expression | https://doi.org/10.1007/s44371-026-01070-0 | ml/2026-11-16.md |
+| Local Mobility and Global Position-Aware Stabilized Clustering and Graph-Based Routing for Mobile WSN (LMGPA) | https://doi.org/10.1109/JIOT.2026.3730453 | ml/2026-11-16.md |
