@@ -191,3 +191,6 @@
 | LangChain Raises $300M Series C at $3B Valuation | https://www.langchain.com/blog/series-c | ml/2026-11-16-ai.md |
 | From Questions to Decisions: Benchmarking How LLM Agents Acquire Decision-Relevant Information from Human Beings | https://arxiv.org/abs/2611.13015 | ml/2026-11-16-ai.md |
 | AgentScript-Eval: Benchmarking LLMs and Agents for Code Generation in an Enterprise DSL | https://arxiv.org/abs/2611.13183 | ml/2026-11-16-ai.md |
+| Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches | https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html | ml/2026-11-17-ai.md |
+| California sues San Francisco's OpenAI over rogue AI agents | https://www.axios.com/local/san-francisco/2026/11/16/california-openai-lawsuit-hugging-face-hack | ml/2026-11-17-ai.md |
+| A Fed governor warned AI agents could speed up bank runs that unfold in minutes | https://qz.com/fed-barr-ai-agents-bank-runs-deposits-111626 | ml/2026-11-17-ai.md |
