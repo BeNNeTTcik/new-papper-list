@@ -214,3 +214,8 @@
 | Spatial–temporal machine learning for traffic violation type prediction: a case study in Qatar | https://doi.org/10.55670/fpll.futech.5.4.22 | ml/2026-11-16.md |
 | Unsupervised machine learning identifies early stage breast cancer subclasses from aberrant glycogene expression | https://doi.org/10.1007/s44371-026-01070-0 | ml/2026-11-16.md |
 | Local Mobility and Global Position-Aware Stabilized Clustering and Graph-Based Routing for Mobile WSN (LMGPA) | https://doi.org/10.1109/JIOT.2026.3730453 | ml/2026-11-16.md |
+| When Does Oversampling Help? A Decision Framework for Imbalanced Data Streams Under Label Delay and Concept Drift | https://arxiv.org/abs/2611.17981 | ml/2026-11-17.md |
+| Small Is Not Dead: Distance-Aware Cluster Revival for e-means | https://arxiv.org/abs/2611.18238 | ml/2026-11-17.md |
+| TAP-FL: A Two-Stage Adaptive Personalized Federated Learning Framework for Intrusion Detection | https://doi.org/10.1109/JIOT.2026.3725735 | ml/2026-11-17.md |
+| What Balanced Accuracy Cannot Identify in Neural-Signal Decoding under Test-Time Adaptation | https://arxiv.org/abs/2611.17925 | ml/2026-11-17.md |
+| Leakage-aware federated-style simulation for fraud risk prediction in AI-enabled FinTech platforms | https://doi.org/10.55670/fpll.futech.5.4.9 | ml/2026-11-17.md |
