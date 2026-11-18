@@ -194,3 +194,6 @@
 | Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches | https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html | ml/2026-11-17-ai.md |
 | California sues San Francisco's OpenAI over rogue AI agents | https://www.axios.com/local/san-francisco/2026/11/16/california-openai-lawsuit-hugging-face-hack | ml/2026-11-17-ai.md |
 | A Fed governor warned AI agents could speed up bank runs that unfold in minutes | https://qz.com/fed-barr-ai-agents-bank-runs-deposits-111626 | ml/2026-11-17-ai.md |
+| Advancing computer-use agents for healthcare teams | https://openai.com/index/advancing-computer-use-for-healthcare-teams/ | ml/2026-11-18-ai.md |
+| Building always-on agents | https://claude.com/blog/building-always-on-agents | ml/2026-11-18-ai.md |
+| What's new in Microsoft Agent 365: Ignite 2026 | https://techcommunity.microsoft.com/blog/agent-365-blog/whats-new-in-microsoft-agent-365-ignite-2026/4571753 | ml/2026-11-18-ai.md |
