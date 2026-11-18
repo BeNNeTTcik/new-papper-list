@@ -219,3 +219,7 @@
 | TAP-FL: A Two-Stage Adaptive Personalized Federated Learning Framework for Intrusion Detection | https://doi.org/10.1109/JIOT.2026.3725735 | ml/2026-11-17.md |
 | What Balanced Accuracy Cannot Identify in Neural-Signal Decoding under Test-Time Adaptation | https://arxiv.org/abs/2611.17925 | ml/2026-11-17.md |
 | Leakage-aware federated-style simulation for fraud risk prediction in AI-enabled FinTech platforms | https://doi.org/10.55670/fpll.futech.5.4.9 | ml/2026-11-17.md |
+| FWB-SMOTE: feature-weighted borderline synthetic minority oversampling technique for class imbalance problems | https://doi.org/10.1007/s10586-026-06659-9 | ml/2026-11-18.md |
+| FH-Sampling: Frequency-aware Hypergraph-driven Oversampling for Imbalanced Time-Series Classification | https://arxiv.org/abs/2611.20991 | ml/2026-11-18.md |
+| When is Uniform Sampling Optimal? Coresets for Distributional Clustering | https://arxiv.org/abs/2611.20641 | ml/2026-11-18.md |
+| Defect-Aware Masked Autoencoders for Unsupervised Clustering of Steel Surface Defects | https://arxiv.org/abs/2611.20645 | ml/2026-11-18.md |
