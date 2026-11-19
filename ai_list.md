@@ -197,3 +197,6 @@
 | Advancing computer-use agents for healthcare teams | https://openai.com/index/advancing-computer-use-for-healthcare-teams/ | ml/2026-11-18-ai.md |
 | Building always-on agents | https://claude.com/blog/building-always-on-agents | ml/2026-11-18-ai.md |
 | What's new in Microsoft Agent 365: Ignite 2026 | https://techcommunity.microsoft.com/blog/agent-365-blog/whats-new-in-microsoft-agent-365-ignite-2026/4571753 | ml/2026-11-18-ai.md |
+| Alibaba Unveils Qwen4-Max: New AI Teammate for Work, Creativity, and Discovery | https://www.alibabacloud.com/press-room/alibaba-unveils-qwen4-max | ml/2026-11-19-ai.md |
+| We rebuilt LangSmith around the agent | https://www.langchain.com/blog/we-rebuilt-langsmith-around-the-agent | ml/2026-11-19-ai.md |
+| Microsoft Ignite 2026 — Book of News | https://news.microsoft.com/events/ignite/2026/book-of-news/ | ml/2026-11-19-ai.md |
