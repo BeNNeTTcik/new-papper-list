@@ -223,3 +223,8 @@
 | FH-Sampling: Frequency-aware Hypergraph-driven Oversampling for Imbalanced Time-Series Classification | https://arxiv.org/abs/2611.20991 | ml/2026-11-18.md |
 | When is Uniform Sampling Optimal? Coresets for Distributional Clustering | https://arxiv.org/abs/2611.20641 | ml/2026-11-18.md |
 | Defect-Aware Masked Autoencoders for Unsupervised Clustering of Steel Surface Defects | https://arxiv.org/abs/2611.20645 | ml/2026-11-18.md |
+| Two Counterexamples for e-means | https://arxiv.org/abs/2611.22065 | ml/2026-11-19.md |
+| On the velocity range limitation of DBSCAN for event-based particle tracking and a proposed solution | https://arxiv.org/abs/2611.22702 | ml/2026-11-19.md |
+| Automated Annotation-Free Synthetic Data Generation for Underwater Litter Detection: A Comparison of Generative Approaches | https://arxiv.org/abs/2611.23037 | ml/2026-11-19.md |
+| Credit card fraud detection through feature reduction and stacking under class imbalance | https://doi.org/10.1007/s44163-026-02732-9 | ml/2026-11-19.md |
+| DSADiff: Data Structure-Aware Diffusion for Crystal Structure Prediction via Mitigating Complexity- and Imbalance-Induced Biases | https://arxiv.org/abs/2611.22050 | ml/2026-11-19.md |
