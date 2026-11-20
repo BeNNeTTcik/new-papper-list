@@ -228,3 +228,8 @@
 | Automated Annotation-Free Synthetic Data Generation for Underwater Litter Detection: A Comparison of Generative Approaches | https://arxiv.org/abs/2611.23037 | ml/2026-11-19.md |
 | Credit card fraud detection through feature reduction and stacking under class imbalance | https://doi.org/10.1007/s44163-026-02732-9 | ml/2026-11-19.md |
 | DSADiff: Data Structure-Aware Diffusion for Crystal Structure Prediction via Mitigating Complexity- and Imbalance-Induced Biases | https://arxiv.org/abs/2611.22050 | ml/2026-11-19.md |
+| DAL: Dynamic Angular Loss for Imbalanced Medical Image Classification | https://arxiv.org/abs/2611.24597 | ml/2026-11-20.md |
+| Rare-Tail Statistics For Learning Biased Gaussian Halfspaces with Label Noise | https://arxiv.org/abs/2611.24181 | ml/2026-11-20.md |
+| PriTabICL: Differentially Private Tabular In-Context Learning with Task-Aligned Cluster-Wise Synthesis | https://arxiv.org/abs/2611.25073 | ml/2026-11-20.md |
+| Fast and Memory-Light Evaluation of Density-Based Clusterings with the DISCO Index in R | https://arxiv.org/abs/2611.25114 | ml/2026-11-20.md |
+| The low-degree sample complexity of clustering Gaussian mixtures with more groups than dimensions | https://arxiv.org/abs/2611.25163 | ml/2026-11-20.md |
