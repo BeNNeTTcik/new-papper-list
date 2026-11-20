@@ -200,3 +200,7 @@
 | Alibaba Unveils Qwen4-Max: New AI Teammate for Work, Creativity, and Discovery | https://www.alibabacloud.com/press-room/alibaba-unveils-qwen4-max | ml/2026-11-19-ai.md |
 | We rebuilt LangSmith around the agent | https://www.langchain.com/blog/we-rebuilt-langsmith-around-the-agent | ml/2026-11-19-ai.md |
 | Microsoft Ignite 2026 — Book of News | https://news.microsoft.com/events/ignite/2026/book-of-news/ | ml/2026-11-19-ai.md |
+| Research acceleration: The jagged frontier | https://openai.com/index/research-acceleration-jagged-frontier/ | ml/2026-11-20-ai.md |
+| Introducing Replit Missions | https://replit.com/blog/introducing-replit-missions | ml/2026-11-20-ai.md |
+| Exclusive: Cognition bets on Devin Bots coding agents in challenge to Anthropic's Duet and OpenAI's Dots | https://fortune.com/2026/11/17/exclusive-cognition-bets-on-devin-bots-coding-agents-in-challenge-to-anthropics-duet-and-openais-dots/ | ml/2026-11-20-ai.md |
+| Citi, PNC and Citizens tell customers they own any loss an AI agent causes | https://startupfortune.com/citi-pnc-and-citizens-tell-customers-they-own-any-loss-an-ai-agent-causes/ | ml/2026-11-20-ai.md |
