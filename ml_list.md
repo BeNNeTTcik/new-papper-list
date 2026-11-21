@@ -233,3 +233,8 @@
 | PriTabICL: Differentially Private Tabular In-Context Learning with Task-Aligned Cluster-Wise Synthesis | https://arxiv.org/abs/2611.25073 | ml/2026-11-20.md |
 | Fast and Memory-Light Evaluation of Density-Based Clusterings with the DISCO Index in R | https://arxiv.org/abs/2611.25114 | ml/2026-11-20.md |
 | The low-degree sample complexity of clustering Gaussian mixtures with more groups than dimensions | https://arxiv.org/abs/2611.25163 | ml/2026-11-20.md |
+| Subexponential Algorithms for Continuous Euclidean k-Means in Subpolylogarithmic Dimension | https://arxiv.org/abs/2611.25305 | ml/2026-11-21.md |
+| Class-Conditional Conformal Triage for ICAO Face-Image Compliance under Class Imbalance | https://arxiv.org/abs/2611.25342 | ml/2026-11-21.md |
+| Loss-Guided Tsetlin Machines: Making the Learning Objective Explicit | https://arxiv.org/abs/2611.26114 | ml/2026-11-21.md |
+| Local Clustering Tests and Botnet Localization in Sparse Random Geometric Networks | https://arxiv.org/abs/2611.26487 | ml/2026-11-21.md |
+| A Unified Unfolding and Slide-Vector Model for Asymmetric Dissimilarities via Clustered Lasso | https://arxiv.org/abs/2611.25701 | ml/2026-11-21.md |
