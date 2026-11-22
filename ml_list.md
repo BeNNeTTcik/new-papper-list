@@ -238,3 +238,8 @@
 | Loss-Guided Tsetlin Machines: Making the Learning Objective Explicit | https://arxiv.org/abs/2611.26114 | ml/2026-11-21.md |
 | Local Clustering Tests and Botnet Localization in Sparse Random Geometric Networks | https://arxiv.org/abs/2611.26487 | ml/2026-11-21.md |
 | A Unified Unfolding and Slide-Vector Model for Asymmetric Dissimilarities via Clustered Lasso | https://arxiv.org/abs/2611.25701 | ml/2026-11-21.md |
+| Tsallis Entropy-Regularized Yang-Type Fuzzy c-Directions (TYFCD) — rozmyte klastrowanie danych kierunkowych przy nierównych rozmiarach klastrów | https://doi.org/10.20965/jaciii.2026.p2037 | ml/2026-11-22.md |
+| Less Federation, More Personalization: One-Shot Multi-View Clustering for Federated Fall Detection | https://doi.org/10.1145/3842721.3850110 | ml/2026-11-22.md |
+| High-Speed Railway Train Delay Prediction Based on Improved CTGAN Generative Data Fusion | https://doi.org/10.20965/jaciii.2026.p1884 | ml/2026-11-22.md |
+| A Continual Self-Supervised Learning Framework Using a Decoder and a Clustering-Based Data Selection Method | https://doi.org/10.20965/jaciii.2026.p1846 | ml/2026-11-22.md |
+| Topology-Aware Sparse Attention for Intrusion Detection in Communication Networks | https://doi.org/10.1145/3842721.3850226 | ml/2026-11-22.md |
