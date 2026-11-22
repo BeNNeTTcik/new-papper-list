@@ -204,3 +204,7 @@
 | Introducing Replit Missions | https://replit.com/blog/introducing-replit-missions | ml/2026-11-20-ai.md |
 | Exclusive: Cognition bets on Devin Bots coding agents in challenge to Anthropic's Duet and OpenAI's Dots | https://fortune.com/2026/11/17/exclusive-cognition-bets-on-devin-bots-coding-agents-in-challenge-to-anthropics-duet-and-openais-dots/ | ml/2026-11-20-ai.md |
 | Citi, PNC and Citizens tell customers they own any loss an AI agent causes | https://startupfortune.com/citi-pnc-and-citizens-tell-customers-they-own-any-loss-an-ai-agent-causes/ | ml/2026-11-20-ai.md |
+| Introducing Gemini 4 Neon | https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/ | ml/2026-11-22-ai.md | X | X |
+| China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server | https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382 | ml/2026-11-22-ai.md | X | X |
+| Report: Apple job listings detail plans for autonomous AI agents | https://9to5mac.com/2026/11/19/report-apple-job-listings-detail-plans-for-autonomous-ai-agents/ | ml/2026-11-22-ai.md | X | X |
+| Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI | https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html | ml/2026-11-22-ai.md | X | X |
