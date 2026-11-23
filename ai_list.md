@@ -208,3 +208,6 @@
 | China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server | https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382 | ml/2026-11-22-ai.md | X | X |
 | Report: Apple job listings detail plans for autonomous AI agents | https://9to5mac.com/2026/11/19/report-apple-job-listings-detail-plans-for-autonomous-ai-agents/ | ml/2026-11-22-ai.md | X | X |
 | Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI | https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html | ml/2026-11-22-ai.md | X | X |
+| METR: research update o horyzoncie czasowym agentów AI (zadania wymagające osądu) | https://x.com/METR_Evals/status/2123864981506798012 | ml/2026-11-23-ai.md | X | X |
+| Mirror Dimension for Agents: Evaluating Browser-Use Agents Without the Web | https://blog.google/security/mirror-dimension-for-agents/ | ml/2026-11-23-ai.md | X | X |
+| Satya Nadella predicts AI agents will reshuffle the economics of the web | https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/ | ml/2026-11-23-ai.md | X | X |
