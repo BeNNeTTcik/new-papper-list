@@ -243,3 +243,7 @@
 | High-Speed Railway Train Delay Prediction Based on Improved CTGAN Generative Data Fusion | https://doi.org/10.20965/jaciii.2026.p1884 | ml/2026-11-22.md |
 | A Continual Self-Supervised Learning Framework Using a Decoder and a Clustering-Based Data Selection Method | https://doi.org/10.20965/jaciii.2026.p1846 | ml/2026-11-22.md |
 | Topology-Aware Sparse Attention for Intrusion Detection in Communication Networks | https://doi.org/10.1145/3842721.3850226 | ml/2026-11-22.md |
+| A t-SNE approach to visualising scenario-dependent coherent generator clusters | https://doi.org/10.1515/ijeeps-2026-0439 | ml/2026-11-23.md |
+| Semantic-preserving time-frequency data augmentation based on modified stockwell transform for fault diagnosis under imbalanced data conditions | https://doi.org/10.1007/s11760-026-05899-x | ml/2026-11-23.md |
+| Benchmarking fidelity, utility, realism, and privacy tradeoffs among generative models for synthetic neonatal clinical tabular data | https://doi.org/10.1007/s44163-026-02764-1 | ml/2026-11-23.md |
+| Time to Protection in Federated Intrusion Detection on Jetson Orin Nano Clusters | https://doi.org/10.1145/3842721.3850111 | ml/2026-11-23.md |
