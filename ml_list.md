@@ -247,3 +247,8 @@
 | Semantic-preserving time-frequency data augmentation based on modified stockwell transform for fault diagnosis under imbalanced data conditions | https://doi.org/10.1007/s11760-026-05899-x | ml/2026-11-23.md |
 | Benchmarking fidelity, utility, realism, and privacy tradeoffs among generative models for synthetic neonatal clinical tabular data | https://doi.org/10.1007/s44163-026-02764-1 | ml/2026-11-23.md |
 | Time to Protection in Federated Intrusion Detection on Jetson Orin Nano Clusters | https://doi.org/10.1145/3842721.3850111 | ml/2026-11-23.md |
+| An optimized HHO-DenMune model for accurate and stable software defect prediction across diverse datasets | https://doi.org/10.1007/s10515-026-00709-7 | ml/2026-11-24.md |
+| The Comparative Analysis of Hybrid Sampling, EasyEnsemble, and SVM-SMOTE Performance for Imbalanced Data Based on Bayesian Optimization | https://doi.org/10.18860/cauchy.v11i2.42968 | ml/2026-11-24.md |
+| DynCoCluster for scalable real time parallel co clustering recommendation systems | https://doi.org/10.1007/s10791-026-10850-2 | ml/2026-11-24.md |
+| Improved Fuzzy C-Means Driving Style Recognition Based on Trajectory Feature Extraction | https://doi.org/10.1007/s13177-026-00739-1 | ml/2026-11-24.md |
+| Adaptive Sample Equilibrium and Confidence-Gated Triplet Learning for Robust Unsupervised Person Re-Identification | https://doi.org/10.1109/JIOT.2026.3734924 | ml/2026-11-24.md |
