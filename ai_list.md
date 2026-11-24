@@ -211,3 +211,7 @@
 | METR: research update o horyzoncie czasowym agentów AI (zadania wymagające osądu) | https://x.com/METR_Evals/status/2123864981506798012 | ml/2026-11-23-ai.md | X | X |
 | Mirror Dimension for Agents: Evaluating Browser-Use Agents Without the Web | https://blog.google/security/mirror-dimension-for-agents/ | ml/2026-11-23-ai.md | X | X |
 | Satya Nadella predicts AI agents will reshuffle the economics of the web | https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/ | ml/2026-11-23-ai.md | X | X |
+| Some U.S. banks tighten AI-agent controls on concern about models escaping safeguards | https://cp24.com/news/world/2026/11/23/some-us-banks-tighten-ai-agent-controls-on-concern-about-models-escaping-safeguards-reuters-exclusive | ml/2026-11-24-ai.md | X | X |
+| How AI Agents Become New Targets in GitHub Malware Campaign | https://bitdefender.com/en-us/blog/labs/how-ai-agents-become-new-targets-in-github-malware-campaign | ml/2026-11-24-ai.md | X | X |
+| AI Adoption in Practice 2026: Beyond the Approved List (Nudge Security) | https://www.nudgesecurity.com/press/ai-adoption-in-practice-nov-2026 | ml/2026-11-24-ai.md | X | X |
+| Google Makes Gemini Tasks Free in 6 Countries, Adds US-Only Calls and Purchases | https://www.techrepublic.com/article/news-google-gemini-tasks-free-six-countries/ | ml/2026-11-24-ai.md | X | X |
