@@ -215,3 +215,7 @@
 | How AI Agents Become New Targets in GitHub Malware Campaign | https://bitdefender.com/en-us/blog/labs/how-ai-agents-become-new-targets-in-github-malware-campaign | ml/2026-11-24-ai.md | X | X |
 | AI Adoption in Practice 2026: Beyond the Approved List (Nudge Security) | https://www.nudgesecurity.com/press/ai-adoption-in-practice-nov-2026 | ml/2026-11-24-ai.md | X | X |
 | Google Makes Gemini Tasks Free in 6 Countries, Adds US-Only Calls and Purchases | https://www.techrepublic.com/article/news-google-gemini-tasks-free-six-countries/ | ml/2026-11-24-ai.md | X | X |
+| Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes | https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/ | ml/2026-11-25-ai.md | X | X |
+| Introducing ShellBench, the benchmark for real-world tasks | https://openclaw.ai/blog/shellbench | ml/2026-11-25-ai.md | X | X |
+| As Meta's Muse arrives in the UK, FCA issues agentic AI warning to tech firms | https://www.finextra.com/newsarticle/48807/as-metas-muse-arrives-in-the-uk-fca-issues-agentic-ai-warning-to-tech-firms | ml/2026-11-25-ai.md | X | X |
+| Series F (Building the digital front door) — Sierra | https://sierra.ai/blog/series-f-30b | ml/2026-11-25-ai.md | X | X |
