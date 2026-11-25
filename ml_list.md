@@ -252,3 +252,8 @@
 | DynCoCluster for scalable real time parallel co clustering recommendation systems | https://doi.org/10.1007/s10791-026-10850-2 | ml/2026-11-24.md |
 | Improved Fuzzy C-Means Driving Style Recognition Based on Trajectory Feature Extraction | https://doi.org/10.1007/s13177-026-00739-1 | ml/2026-11-24.md |
 | Adaptive Sample Equilibrium and Confidence-Gated Triplet Learning for Robust Unsupervised Person Re-Identification | https://doi.org/10.1109/JIOT.2026.3734924 | ml/2026-11-24.md |
+| Revealing Geometry under Strong Noise: Spectral Embeddings and Clustering via Random Geometric Graphs | https://arxiv.org/abs/2611.31047 | ml/2026-11-25.md |
+| K-Midranks: A robust clustering algorithm for heavy-tailed data with applications to spectroscopy and finance | https://arxiv.org/abs/2611.30953 | ml/2026-11-25.md |
+| An iterative three-way Fuzzy C-means clustering algorithm based on membership-degree distributions | https://doi.org/10.1007/s44443-026-01430-x | ml/2026-11-25.md |
+| Trustworthy Speech-Based Autism Screening under Class Imbalance with Uncertainty-Aware HuBERT Ensembles | https://arxiv.org/abs/2611.30390 | ml/2026-11-25.md |
+| Comparative Analysis of Machine Learning Classifiers for Lightweight IoT Intrusion Detection Using Feature Reduction (random undersampling CICIoT2023) | https://arxiv.org/abs/2611.29869 | ml/2026-11-25.md |
