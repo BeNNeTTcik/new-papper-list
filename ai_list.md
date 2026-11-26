@@ -219,3 +219,6 @@
 | Introducing ShellBench, the benchmark for real-world tasks | https://openclaw.ai/blog/shellbench | ml/2026-11-25-ai.md | X | X |
 | As Meta's Muse arrives in the UK, FCA issues agentic AI warning to tech firms | https://www.finextra.com/newsarticle/48807/as-metas-muse-arrives-in-the-uk-fca-issues-agentic-ai-warning-to-tech-firms | ml/2026-11-25-ai.md | X | X |
 | Series F (Building the digital front door) — Sierra | https://sierra.ai/blog/series-f-30b | ml/2026-11-25-ai.md | X | X |
+| MCP servers can now ship skills, run tasks, and more with Claude | https://claude.com/resources/articles/skills-over-mcp-tasks-and-more | ml/2026-11-26-ai.md | X | X |
+| Did the user ask for this? Securing AI agents against intent hijacking with Semantic governance policies | https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/ | ml/2026-11-26-ai.md | X | X |
+| AI Agents Have A Permissions Creep Problem. Security Fundamentals Could Fix It | https://www.forbes.com/sites/timkeary/2026/11/25/ai-agents-have-a-permission-creep-problem-security-basics-can-fix-it/ | ml/2026-11-26-ai.md | X | X |
