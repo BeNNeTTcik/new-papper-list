@@ -257,3 +257,8 @@
 | An iterative three-way Fuzzy C-means clustering algorithm based on membership-degree distributions | https://doi.org/10.1007/s44443-026-01430-x | ml/2026-11-25.md |
 | Trustworthy Speech-Based Autism Screening under Class Imbalance with Uncertainty-Aware HuBERT Ensembles | https://arxiv.org/abs/2611.30390 | ml/2026-11-25.md |
 | Comparative Analysis of Machine Learning Classifiers for Lightweight IoT Intrusion Detection Using Feature Reduction (random undersampling CICIoT2023) | https://arxiv.org/abs/2611.29869 | ml/2026-11-25.md |
+| On the Effectiveness of Resampling for Supervised Graph Anomaly Detection | https://arxiv.org/abs/2611.32598 | ml/2026-11-26.md |
+| PHM-ensemble: Scalable and Stable Probabilistic Multiresolution Clustering via Ensemble Density Estimation | https://arxiv.org/abs/2611.32945 | ml/2026-11-26.md |
+| Latent Class Mixed Model Variational Autoencoders for Scalable Phenotyping of Health Trajectories | https://arxiv.org/abs/2611.32391 | ml/2026-11-26.md |
+| Toward Interpretable Clustering for Distinguishing Traveler Profiles | https://doi.org/10.1007/s42421-026-00187-z | ml/2026-11-26.md |
+| SurgGenesis: A Generative Surgical World Model for Future-Aware Surgical Understanding | https://arxiv.org/abs/2611.32054 | ml/2026-11-26.md |
