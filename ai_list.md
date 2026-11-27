@@ -222,3 +222,6 @@
 | MCP servers can now ship skills, run tasks, and more with Claude | https://claude.com/resources/articles/skills-over-mcp-tasks-and-more | ml/2026-11-26-ai.md | X | X |
 | Did the user ask for this? Securing AI agents against intent hijacking with Semantic governance policies | https://developers.googleblog.com/did-the-user-ask-for-this-securing-ai-agents-against-intent-hijacking-with-semantic-governance-policies/ | ml/2026-11-26-ai.md | X | X |
 | AI Agents Have A Permissions Creep Problem. Security Fundamentals Could Fix It | https://www.forbes.com/sites/timkeary/2026/11/25/ai-agents-have-a-permission-creep-problem-security-basics-can-fix-it/ | ml/2026-11-26-ai.md | X | X |
+| Cloudflare Launches Search for Agents Beta | https://www.techrepublic.com/article/news-cloudflare-search-for-agents-website-index/ | ml/2026-11-27-ai.md | X | X |
+| AutoRAGBench: A Benchmark for LLM Agents Automating RAG System Development | https://arxiv.org/abs/2611.25582 | ml/2026-11-27-ai.md | X | X |
+| DiscernBench: Evaluating Cooperative Discernment of LLM Agents in Institutional Settings | https://arxiv.org/abs/2611.28787 | ml/2026-11-27-ai.md | X | X |
