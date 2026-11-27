@@ -262,3 +262,8 @@
 | Latent Class Mixed Model Variational Autoencoders for Scalable Phenotyping of Health Trajectories | https://arxiv.org/abs/2611.32391 | ml/2026-11-26.md |
 | Toward Interpretable Clustering for Distinguishing Traveler Profiles | https://doi.org/10.1007/s42421-026-00187-z | ml/2026-11-26.md |
 | SurgGenesis: A Generative Surgical World Model for Future-Aware Surgical Understanding | https://arxiv.org/abs/2611.32054 | ml/2026-11-26.md |
+| SMOTE 25 Years of Magic: What Has Been Done, What the Evidence Shows, and Whom It Reached | https://arxiv.org/abs/2611.34511 | ml/2026-11-27.md |
+| CARROT: Competitive Adaptive Graph Clustering via Semi-Relaxed Optimal Transport | https://arxiv.org/abs/2611.34012 | ml/2026-11-27.md |
+| From Prediction to Decision: Decision-Focused Fine-Tuning of Autoregressive Tabular Transformers for Cost-Sensitive Financial Events | https://arxiv.org/abs/2611.34858 | ml/2026-11-27.md |
+| Using waveform types, discrete Sobolev distances, and trend compatibility to cluster short time series of clinical data | https://arxiv.org/abs/2611.33623 | ml/2026-11-27.md |
+| How resampling method can help us: Improving the Delta model | https://arxiv.org/abs/2611.34137 | ml/2026-11-27.md |
