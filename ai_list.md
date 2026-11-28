@@ -225,3 +225,6 @@
 | Cloudflare Launches Search for Agents Beta | https://www.techrepublic.com/article/news-cloudflare-search-for-agents-website-index/ | ml/2026-11-27-ai.md | X | X |
 | AutoRAGBench: A Benchmark for LLM Agents Automating RAG System Development | https://arxiv.org/abs/2611.25582 | ml/2026-11-27-ai.md | X | X |
 | DiscernBench: Evaluating Cooperative Discernment of LLM Agents in Institutional Settings | https://arxiv.org/abs/2611.28787 | ml/2026-11-27-ai.md | X | X |
+| Migrating our Messages API to Rust | https://www.anthropic.com/research/migrating-api-to-rust | ml/2026-11-28-ai.md | X | X |
+| The enterprise guide to securing coding agents | https://claude.com/resources/articles/enterprise-guide-to-securing-coding-agents | ml/2026-11-28-ai.md | X | X |
+| Investing in Linq | https://a16z.com/announcement/investing-in-linq/ | ml/2026-11-28-ai.md | X | X |
