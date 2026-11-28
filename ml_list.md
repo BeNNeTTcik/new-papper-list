@@ -262,3 +262,8 @@
 | Latent Class Mixed Model Variational Autoencoders for Scalable Phenotyping of Health Trajectories | https://arxiv.org/abs/2611.32391 | ml/2026-11-26.md |
 | Toward Interpretable Clustering for Distinguishing Traveler Profiles | https://doi.org/10.1007/s42421-026-00187-z | ml/2026-11-26.md |
 | SurgGenesis: A Generative Surgical World Model for Future-Aware Surgical Understanding | https://arxiv.org/abs/2611.32054 | ml/2026-11-26.md |
+| Effects of Training Sample Size and Class Imbalance on Deep Learning-Based Short-Term Crash Risk Prediction on an Interurban Expressway | https://doi.org/10.1007/s13177-026-00730-w | ml/2026-11-28.md |
+| Household SARS-CoV-2 secondary transmission risk prediction for Swedish national register data using TabPFN with SHAP-based explainability | https://doi.org/10.1038/s41598-026-81330-2 | ml/2026-11-28.md |
+| Unsupervised emotion pattern discovery in long-form speech via acoustic clustering and language model interpretation | https://doi.org/10.1007/s11042-026-21994-0 | ml/2026-11-28.md |
+| A comparative study of temporal modeling for large-scale Vietnamese isolated sign language recognition | https://doi.org/10.1007/s10791-026-10903-6 | ml/2026-11-28.md |
+| Statistical Perspectives on Mediterranean Precipitation: Power-Law Insights in Hydro-Climatology | https://doi.org/10.1007/s11269-026-04938-z | ml/2026-11-28.md |
